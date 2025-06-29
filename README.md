@@ -9,7 +9,7 @@ This playbook is a living document inspired by my journey from traditional proje
 I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into the nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design.
 My work has earned national and regional recognition. I’m a Dallas Business Journal Women in Technology Awards Advocate Honoree and have been featured in:
 
-- 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key to Effective Project Management* (20K+ views, 4★+ rating) 
+- 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating) 
 - 🎤 **TEDx Plano**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: “Women Engineers You Should Know” feature and SWE23 conference inspirational insight sessions speaker on the topic of “Strategic Leadership: Empowering Teams to Win”
 - 📘 **PM World Journal**: Featured for global project and program management insights
