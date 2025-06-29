@@ -9,13 +9,14 @@ This playbook is a living document inspired by my journey from traditional proje
 I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into the nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design.
 My work has earned national and regional recognition. I’m a Dallas Business Journal Women in Technology Awards Advocate Honoree and have been featured in:
 
-- 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating) 
-- 🎤 **TEDx Plano**: Speaker embracing a growth mindset, innovation, and inclusion
+- 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating)
+- 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and WE23 conference Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win*
 - 📘 **PM World Journal**: Featured for global project and program management insights
-- 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation*
+- 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and featured contributor on website blog.  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
 - 🌐 **National Informal STEM Education (NISE) Network**: Featured for innovation in science and education engagement
+- 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. 
 
 These experiences underscore my ability to translate structure into strategy and scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity, without losing business value along the way.
 
