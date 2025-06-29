@@ -88,5 +88,5 @@ This is just the beginning. I plan to:
 📬 Connect With Me
 
 If this playbook resonates or you’re looking to build your own, let’s connect:
-🌐 AliciaMMorgan.com
+🌐 https://aliciammorgan.com/
 🎙️ Speaker • PM Strategist • Innovation Leader
