@@ -43,7 +43,7 @@ According to Deloitte's Business Chemistry®, I am a **primary Driver** and **se
 #### 🛡️ Guardian Snapshot
 ![Guardian Snapshot](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Guardian%20Business%20Chemistry.png)
 
-[[![Driver Snapshot](Alicia M Morgan Driver Business Chemistry.png)](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Alicia%20M%20Morgan%20Driver%20Business%20Chemistry.png)
+
 ⸻
 
 🔧 **Part 1: The Foundation (Traditional Project Management)**
