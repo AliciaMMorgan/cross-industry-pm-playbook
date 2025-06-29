@@ -6,7 +6,7 @@ This playbook is a living document inspired by my journey from traditional proje
 
 📇 About Me
 
-I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design
+I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design.
 
 📌 **Why This Playbook?**
 
