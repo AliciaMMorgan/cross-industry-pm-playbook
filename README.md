@@ -29,7 +29,7 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
      💼 CNM Connect – Nonprofit Management Certification
   
 - 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
-- 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and *WE23 conference* Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win* and 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
+- 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and *WE23 conference* Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win* and a 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
 - 📘 **PM World Journal**: Featured for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and featured contributor on website blog.  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
