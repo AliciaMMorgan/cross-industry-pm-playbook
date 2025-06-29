@@ -1,92 +1,105 @@
-A Practical Guide for Leading Innovation Across Sectors
+# A Practical Guide for Leading Innovation Across Sectors
 
-👋 Welcome
+👋 **Welcome**
 
 This playbook is a living document inspired by my journey from traditional project management in technical environments (aerospace, defense) to innovation leadership across nonprofits, education, and enterprise organizations. It’s designed to help project managers, innovation leaders, and cross-functional teams build from structure into adaptive agility—without losing clarity or execution discipline.
 
 ⸻
 
-📌 Why This Playbook?
+📌 **Why This Playbook?**
 
 I created this to:
-	•	Show how structure enables innovation—not blocks it.
-	•	Offer a real-world toolkit rooted in practice, not theory.
-	•	Share lessons from leading digital transformation and strategic programs in both resource-rich and resource-constrained environments.
+- Show how structure enables innovation—not blocks it.
+- Offer a real-world toolkit rooted in practice, not theory.
+- Share lessons from leading digital transformation and strategic programs in both resource-rich and resource-constrained environments.
 
 ⸻
 
-🔧 Part 1: The Foundation (Traditional Project Management)
+🧠 **What Guides My Thinking: Business Chemistry®**
+
+According to Deloitte's Business Chemistry®, I am a **primary Driver** and **secondary Guardian**. This unique combination fuels how I lead in both structured and fluid environments:
+
+- As a **Driver**, I value logic, results, and focused execution. I lead with clarity, distill complexity into outcomes, and welcome a challenge that sharpens strategy.
+- As a **Guardian**, I respect structure, risk-awareness, and rigor. I’m methodical, dependable, and capable of navigating regulated or traditional settings with care.
+
+🎯 **Why it matters**: This pairing allows me to bridge compliance-heavy organizations with creative, adaptive environments. I bring both engineering precision and innovative flexibility—critical when leading change, aligning stakeholders, and scaling new approaches.
+
+*(Snapshot insights from the report may be included here or as a separate PDF link in the repo. Since it’s personal diagnostic data and not proprietary to a company, it’s fine to share thoughtfully. Highlight summaries vs. full report unless requested.)*
+
+⸻
+
+🔧 **Part 1: The Foundation (Traditional Project Management)**
 
 This section outlines the standard practices and frameworks that shaped my PM roots:
 
-▪️ Project Lifecycle
-	•	Initiation → Planning → Execution → Monitoring → Closure
+▪️ **Project Lifecycle**
+- Initiation → Planning → Execution → Monitoring → Closure
 
-▪️ Governance & Roles
-	•	Sample RACI charts, stakeholder maps, sponsor engagement
+▪️ **Governance & Roles**
+- Sample RACI charts, stakeholder maps, sponsor engagement
 
-▪️ Methodologies & Tools
-	•	Waterfall, early hybrid methods
-	•	Tools: MS Project, Smartsheet, Excel trackers
-	•	Templates: Project Charters, Risk Logs, Status Reports (linked)
+▪️ **Methodologies & Tools**
+- Waterfall, early hybrid methods  
+- Tools: MS Project, Smartsheet, Excel trackers  
+- Templates: Project Charters, Risk Logs, Status Reports (linked)
 
 ⸻
 
-🌉 Part 2: Bridging into Innovation (Cross-Sector Adaptability)
+🌉 **Part 2: Bridging into Innovation (Cross-Sector Adaptability)**
 
 I transitioned into nonprofit and education environments where creativity, resourcefulness, and people-centered design became essential.
 
-▪️ Case: Dallas College Digital Transformation
-	•	Collaborated across departments to connect industry and workforce needs
-	•	Led facilitation to identify skill gaps and map tech solutions
+▪️ **Case: Dallas College Digital Transformation**
+- Collaborated across departments to connect industry and workforce needs  
+- Led facilitation to identify skill gaps and map tech solutions
 
-▪️ Case: After-School Program Strategy
-	•	Facilitated program redesign through research, empathy interviews, and volunteer board leadership
-	•	Shifted from leading to facilitating conversations and co-design
+▪️ **Case: After-School Program Strategy**
+- Facilitated program redesign through research, empathy interviews, and volunteer board leadership  
+- Shifted from leading to facilitating conversations and co-design
 
 ⸻
 
-🚀 Part 3: Innovation in Action (Agility in Ambiguity)
+🚀 **Part 3: Innovation in Action (Agility in Ambiguity)**
 
 Now, I work at the intersection of structure and experimentation—helping orgs balance process maturity with adaptive delivery.
 
-▪️ Executive Nonprofit Leadership
-	•	Built scalable program models, drove stakeholder alignment, and implemented agile reporting practices
+▪️ **Executive Nonprofit Leadership**
+- Built scalable program models, drove stakeholder alignment, and implemented agile reporting practices
 
-▪️ Consulting & PMP Credentialing
-	•	Earned my PMP to bridge language with enterprise leaders
-	•	Use Agile metrics, retrospectives, and continuous learning
+▪️ **Consulting & PMP Credentialing**
+- Earned my PMP to bridge language with enterprise leaders  
+- Use Agile metrics, retrospectives, and continuous learning
 
 ⸻
 
-📘 Resources & Templates
+📘 **Resources & Templates**
 
-🔗 Project Charter Template
-🔗 Stakeholder Engagement Checklist
-🔗 Risk Log
+🔗 Project Charter Template  
+🔗 Stakeholder Engagement Checklist  
+🔗 Risk Log  
 🔗 Sample Retrospective Summary
 
 ⸻
 
-📈 KPIs & Lessons Learned
-	•	What success looks like: delivery and adoption
-	•	Lessons from every role include:
-	•	Listen first, map second
-	•	Create clarity in chaos
-	•	Balance people, process, and platform
+📈 **KPIs & Lessons Learned**
+- What success looks like: delivery and adoption
+- Lessons from every role include:  
+   • Listen first, map second  
+   • Create clarity in chaos  
+   • Balance people, process, and platform
 
 ⸻
 
-🔄 Work in Progress
+🔄 **Work in Progress**
 
 This is just the beginning. I plan to:
-	•	Add additional use cases and templates
-	•	Host a second repo for innovation toolkits and agile facilitation
+- Add additional use cases and templates
+- Host a second repo for innovation toolkits and agile facilitation
 
 ⸻
 
-📬 Connect With Me
+📬 **Connect With Me**
 
-If this playbook resonates or you’re looking to build your own, let’s connect:
-🌐 https://aliciammorgan.com/
+If this playbook resonates or you’re looking to build your own, let’s connect:  
+🌐 https://aliciammorgan.com/  
 🎙️ Speaker • PM Strategist • Innovation Leader
