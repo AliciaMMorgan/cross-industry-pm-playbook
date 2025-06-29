@@ -10,6 +10,7 @@ I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in a
 My work has earned national and regional recognition. I’m a Dallas Business Journal Women in Technology Awards Advocate Honoree and have been featured in:
 
 - 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating)
+- ✅ **Certifications**: PMP(Project Management Professional), Atlassian Agile Project Management Professional Certificate, PMI Practical Application of Gen AI for Project Managers, PMI Data Landscape of GenAI for Project Managers, PMI Agile Metrics DA Micro-Credential, Vanderbilt University Prompt Engineering for ChatGPT, Microsoft Excel(Microsoft Apps and Office 2019), CNM Connect Nonprofit Mangement Certification 
 - 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and WE23 conference Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win*
 - 📘 **PM World Journal**: Featured for global project and program management insights
