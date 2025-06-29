@@ -26,7 +26,8 @@ My work has earned national and regional recognition. I’m a Dallas Business Jo
 
      📘 Microsoft Excel – Microsoft Apps & Office 2019
 
-💼 CNM Connect – Nonprofit Management Certification
+     💼 CNM Connect – Nonprofit Management Certification
+  
 - 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and WE23 conference Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win*
 - 📘 **PM World Journal**: Featured for global project and program management insights
