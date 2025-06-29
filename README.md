@@ -26,7 +26,8 @@ According to Deloitte's Business Chemistry®, I am a **primary Driver** and **se
 
 🎯 **Why it matters**: This pairing allows me to bridge compliance-heavy organizations with creative, adaptive environments. I bring both engineering precision and innovative flexibility—critical when leading change, aligning stakeholders, and scaling new approaches.
 
-*(Snapshot insights from the report may be included here or as a separate PDF link in the repo. Since it’s personal diagnostic data and not proprietary to a company, it’s fine to share thoughtfully. Highlight summaries vs. full report unless requested.)*
+*(Snapshot insights from the report)
+
 
 ⸻
 
