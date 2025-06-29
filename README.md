@@ -11,19 +11,19 @@ My work has earned national and regional recognition. I’m a Dallas Business Jo
 
 - 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating)
 - ✅ **Certifications**:
-🎯 PMP – Project Management Professional
+     🎯 PMP – Project Management Professional
 
-🚀 Atlassian Agile Project Management – Professional Certificate
+     🚀 Atlassian Agile Project Management – Professional Certificate
 
-🤖 PMI – Practical Application of GenAI for Project Managers
+     🤖 PMI – Practical Application of GenAI for Project Managers
 
-📊 PMI – Data Landscape of GenAI for Project Managers
+     📊 PMI – Data Landscape of GenAI for Project Managers
 
-📈 PMI – Agile Metrics (DA Micro-Credential)
+     📈 PMI – Agile Metrics (DA Micro-Credential)
 
-🧠 Vanderbilt University – Prompt Engineering for ChatGPT
+     🧠 Vanderbilt University – Prompt Engineering for ChatGPT
 
-📘 Microsoft Excel – Microsoft Apps & Office 2019
+     📘 Microsoft Excel – Microsoft Apps & Office 2019
 
 💼 CNM Connect – Nonprofit Management Certification
 - 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
