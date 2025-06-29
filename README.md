@@ -11,6 +11,7 @@ My work has earned national and regional recognition. I’m a Dallas Business Jo
 
 - 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating)
 - ✅ **Certifications**:
+
      🎯 PMP – Project Management Professional
 
      🚀 Atlassian Agile Project Management – Professional Certificate
