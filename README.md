@@ -33,7 +33,7 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
 - 📘 **PM World Journal**: Featured for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and featured contributor on website blog.  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
-- 🌐 **National Informal STEM Education (NISE) Network**: Featured for innovation in science and education engagement
+- 🌐 **National Informal STEM Education (NISE) Network**: Featured article for innovation in science and education engagement
 - 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. 
 
 These experiences underscore my ability to translate structure into strategy and scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity, without losing business value along the way.
