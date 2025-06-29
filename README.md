@@ -4,7 +4,8 @@
 
 This playbook is a living document inspired by my journey from traditional project management in technical environments (aerospace, defense) to innovation leadership across nonprofits, education, and enterprise organizations. It’s designed to help project managers, innovation leaders, and cross-functional teams build from structure into adaptive agility—without losing clarity or execution discipline.
 
-⸻
+📇 About Me
+I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design
 
 📌 **Why This Playbook?**
 
