@@ -38,10 +38,10 @@ According to Deloitte's Business Chemistry®, I am a **primary Driver** and **se
 🎯 **Why it matters**: This pairing allows me to bridge compliance-heavy organizations with creative, adaptive environments. I bring both engineering precision and innovative flexibility—critical when leading change, aligning stakeholders, and scaling new approaches.
 
 *(Snapshot insights from the report)#### 🚗 Driver Snapshot
-<img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Driver%20Business%20Chemistry.png" width="400"/>
+<img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Driver%20Business%20Chemistry.png" width="600"/>
 
 #### 🛡️ Guardian Snapshot
-<img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Guardian%20Business%20Chemistry.png" width="400"/>
+<img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Guardian%20Business%20Chemistry.png" width="600"/>
 
 ⸻
 
