@@ -10,7 +10,7 @@ I'm Alicia M. Morgan—a PMP-certified project strategist with a foundation in a
 My work has earned national and regional recognition. I’m a Dallas Business Journal Women in Technology Awards Advocate Honoree and have been featured in:
 
 - 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key to Effective Project Management* (20K+ views, 4★+ rating)
-- 🎤 **TEDx Plano**: Speaker embracing a growth mindse, innovation and inclusion
+- 🎤 **TEDx Plano**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: “Women Engineers You Should Know” feature and SWE23 conference inspirational insight sessions speaker
 - 📘 **PM World Journal**: Featured for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on "Strategic Yet Agile: Leading with Innovation"
