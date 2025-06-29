@@ -11,7 +11,7 @@ My work has earned national and regional recognition. I’m a Dallas Business Jo
 
 - 🧠 **PMI Webinar**: Presenter of *Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating) 
 - 🎤 **TEDx Plano**: Speaker embracing a growth mindset, innovation, and inclusion
-- 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and SWE23 conference inspirational insight sessions speaker on the topic of *Strategic Leadership: Empowering Teams to Win*
+- 🔬 **Society of Women Engineers**: *Women Engineers You Should Know* feature and WE23 conference Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win*
 - 📘 **PM World Journal**: Featured for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation*
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
