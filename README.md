@@ -14,7 +14,7 @@ My work has earned national and regional recognition. I’m a Dallas Business Jo
 - 🔬 **Society of Women Engineers**: “Women Engineers You Should Know” feature and SWE23 conference inspirational insight sessions speaker on the topic of “Strategic Leadership: Empowering Teams to Win”
 - 📘 **PM World Journal**: Featured for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on "Strategic Yet Agile: Leading with Innovation"
-- 💼 **Crain’s Chicago Business**: Featured profile on cross-sector and generational leadership
+- 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
 - 🌐 **National Informal STEM Education (NISE) Network**: Featured for innovation in science and education engagement
 
 These experiences underscore my ability to translate structure into strategy, and strategy into scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity—without losing business value along the way.
