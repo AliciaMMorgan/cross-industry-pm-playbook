@@ -114,8 +114,6 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 🌉 **Part 2: Bridging into Innovation (Cross-Sector Adaptability)**
 
-# 🌉 Bridging into Innovation (Cross-Sector Adaptability)
-
 ## 🌱 Early Transition & Foundation (2012–2013)  
 - Began nonprofit board volunteering while still in corporate  
 - Focused on youth STEM education and community outreach  
