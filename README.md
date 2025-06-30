@@ -168,8 +168,7 @@ Now, I work at the intersection of structure and experimentation—helping organ
 
 - [Nonprofit Program & Community Leadership](../innovationnet-nonprofit-leadership/README.md)  
 - [Strategic Leadership & Innovation (Frontiers of Flight Museum + Consulting)](./strategic-leadership-and-innovation/README.md)  
-```
-
+  
 ⸻
 
 
