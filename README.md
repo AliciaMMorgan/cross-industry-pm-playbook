@@ -67,7 +67,7 @@ According to Deloitte's Business Chemistry®, I am a **primary Driver** and **se
 
 ---
 
-## 🔧 Part 1: The Foundation (Traditional Project Management)
+# 🔧 Part 1: The Foundation (Traditional Project Management)
 
 This section outlines the **traditional PM practices, frameworks, and toolsets** that shaped the foundation of my approach, anchoring my transition into modern, hybrid, and innovation-driven methodologies.
 
@@ -112,7 +112,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ⸻
 
-## 🌉 Part 2: Bridging into Innovation (Cross-Sector Adaptability)
+# 🌉 Part 2: Bridging into Innovation (Cross-Sector Adaptability)
 
 **🌱 Early Transition & Foundation (2012–2013)**  
 - Began nonprofit board volunteering while still in corporate  
@@ -149,7 +149,7 @@ For detailed insights, see the full case study:
 
 ⸻
 
-## Part 3: Innovation in Action (Agility in Ambiguity) ##
+# Part 3: Innovation in Action (Agility in Ambiguity) ##
 
 Now, I work at the intersection of structure and experimentation—helping organizations balance process maturity with adaptive delivery.
 
