@@ -66,18 +66,53 @@ According to Deloitte's Business Chemistry®, I am a **primary Driver** and **se
 
 🔧 **Part 1: The Foundation (Traditional Project Management)**
 
-This section outlines the standard practices and frameworks that shaped my PM roots:
+Here's the **updated version of your Cross-Industry Playbook README section** — specifically the 🔧 **Part 1: The Foundation (Traditional Project Management)** — now reflecting the **Factory Rearrangement** case study and emphasizing the fundamentals of traditional PM, with the snapshot link integrated and key highlights called out:
 
-▪️ **Project Lifecycle**
-- Initiation → Planning → Execution → Monitoring → Closure
+---
 
-▪️ **Governance & Roles**
-- Sample RACI charts, stakeholder maps, and sponsor engagement
+## 🔧 Part 1: The Foundation (Traditional Project Management)
 
-▪️ **Methodologies & Tools**
-- Waterfall, early hybrid methods  
-- Tools: MS Project, Smartsheet, Excel trackers  
-- Templates: Project Charters, Risk Logs, Status Reports (linked)
+This section outlines the **traditional PM practices, frameworks, and toolsets** that shaped the foundation of my approach, anchoring my transition into modern, hybrid, and innovation-driven methodologies.
+
+### 🏗️ Core Concepts
+
+* **Project Lifecycle**
+  *Initiation → Planning → Execution → Monitoring → Closure*
+  Practiced and reinforced through over **30 capital projects per year** supporting mission-critical manufacturing initiatives.
+
+* **Governance & Roles**
+
+  * Defined **RACI charts**, stakeholder engagement plans, and escalation protocols
+  * Direct sponsorship from senior leadership (engineering, ops, facilities, finance)
+
+* **Methodologies & Tools**
+
+  * **Waterfall & Early Hybrid** approaches
+  * Tools included:
+    ▪️ Microsoft Project (Gantt + dependency mgmt)
+    ▪️ Excel (budget reporting, status dashboards, risk logs)
+    ▪️ Smartsheet (collaboration where allowed)
+  * **Factory-floor visual boards** (Kanban, throughput tracking)
+
+### 📌 Featured Example
+
+👉 **[Raytheon Factory Rearrangement Project](./raytheon-factory-rearrangement/)**
+
+> Led end-to-end execution as sole Capital Projects Manager—delivering a \$2.5M initiative in under 2 months, generating \$3.2M in cost savings and 20,000+ labor hours avoided.
+
+**Traditional PM fundamentals showcased:**
+
+* Full lifecycle accountability
+* Asset request submission + capital ROI modeling
+* Procurement coordination + stakeholder alignment
+* Floor redesign, workstation ergonomics, and value stream mapping
+* Execution under compressed timelines with <1% unplanned downtime
+
+🧠 *This project exemplifies the rigor and discipline foundational to my PM development, providing a strong launchpad for modern project leadership across industries.*
+
+---
+
+Would you like me to generate a visual snapshot or badge-style graphic for the Factory Rearrangement project to embed in this section too? That could make it pop more on GitHub.
 
 ⸻
 
