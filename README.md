@@ -113,8 +113,6 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ---
 
-Would you like me to generate a visual snapshot or badge-style graphic for the Factory Rearrangement project to embed in this section, too? That could make it pop more on GitHub.
-
 ⸻
 
 🌉 **Part 2: Bridging into Innovation (Cross-Sector Adaptability)**
