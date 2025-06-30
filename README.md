@@ -124,10 +124,9 @@ I also leverage:
 Favorite tools include:  
 **ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **SharePoint**
 
-These agents are more than tools—they extend my thinking. They allow me to operate at scale while preserving the empathy and strategy required for real impact.⸻
+These agents are more than tools—they extend my thinking. They allow me to operate at scale while preserving the empathy and strategy required for real impact.
 
-
-
+⸻
 
 
 
@@ -145,23 +144,7 @@ As an innovation leader and program strategist, I recognize that **data isn’t 
 
 When structured thinking meets strategic storytelling—**innovation scales.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⸻
 
 
 📘 **Resources & Templates**
