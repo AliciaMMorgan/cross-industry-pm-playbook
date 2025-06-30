@@ -109,22 +109,38 @@ Now, I work at the intersection of structure and experimentation—helping orgs 
 ⸻
 
 
-🤖 **AI Fluency & Intelligent Tools**
+🤖 **AI Fluency & Intelligent Tools** 
 
-I view AI not as a replacement—but as a powerful **collaborator** in strategic execution, communication, and leadership.
+As an innovation leader, I actively integrate AI into my daily workflow—not as a novelty, but as a key collaborator in elevating communication, clarity, and execution. I use tools like **ChatGPT**, **Claude**, and **Microsoft 365 Copilot** to fine-tune messaging, build presentations, and streamline knowledge transfer across teams. These agents help me think faster, plan smarter, and communicate with intention.
 
-▪️ I use **ChatGPT**, **Claude**, and **Copilot (Microsoft 365)** to:
-- Co-develop presentations
-- Draft, review, and refine messaging
-- Take meeting notes or summarize strategy discussions
-- Check for tone, clarity, accessibility, and executive presence
-- Explore use cases and pressure-test ideas before deployment
+I also leverage:
 
-▪️ I use **PowerPoint’s AI Designer** and **Microsoft Coach** to elevate the visual and spoken impact of my presentations—ensuring resonance and pacing.
+- 📋 **Meeting Support**: AI for real-time transcription, summarization, and action item capture  
+- 🧠 **Presentation Design**: Copilot and Designer tools for structuring story flow, visuals, and delivery pacing  
+- 🗣️ **Communication Coaching**: Microsoft Speaker Coach for tone, timing, accessibility, and presence  
+- 🧾 **Document Review**: Drafting and refining strategies, risk logs, and stakeholder briefs with AI as a writing partner  
+- 🧮 **Data Framing**: Using AI to translate complexity into visual dashboards or simplified updates
 
-▪️ I rely on tools like **SharePoint**, **OneDrive**, and **Google Drive** for collaboration, versioning, and secure document management.
+Favorite tools include:  
+**ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **SharePoint**
 
-AI allows me to lead with **efficiency, empathy, and elevation**—transforming how innovation shows up in real time.⸻
+These agents are more than tools—they extend my thinking. They allow me to operate at scale while preserving the empathy and strategy required for real impact.⸻⸻
+
+📊 **Data Fluency & Cross-Functional Collaboration**
+
+As an innovation leader and program strategist, I recognize that **data isn’t just numbers—it’s narrative power**.
+
+▪️ I partner with data engineers, analysts, and IT leaders to ensure project outcomes are aligned with business value and measurable impact.
+
+▪️ I collaborate across enterprise environments that leverage **data lakes**—centralized repositories of structured and unstructured data—to enable smarter decision-making.
+
+▪️ While I don’t build dashboards from scratch, I actively lead initiatives where **Power BI**, **Excel**, and stakeholder insight intersect to deliver clarity and action.
+
+▪️ My role is to ensure the **right questions are being asked**, the **right stakeholders are engaged**, and the **data tells a story** that leads to action.
+
+When structured thinking meets strategic storytelling—**innovation scales.**
+
+
 
 
 
