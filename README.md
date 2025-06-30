@@ -112,36 +112,43 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ⸻
 
-🌉 **Part 2: Bridging into Innovation (Cross-Sector Adaptability)**
+🌉 ##Part 2: Bridging into Innovation (Cross-Sector Adaptability)##
 
-## 🌱 Early Transition & Foundation (2012–2013)  
+**🌱 Early Transition & Foundation (2012–2013)**  
 - Began nonprofit board volunteering while still in corporate  
 - Focused on youth STEM education and community outreach  
 - Built foundational governance and leadership skills  
 
-## 🎯 Formal Program Leadership (2014–2017)  
+**🎯 Formal Program Leadership (2014–2017)** 
 - Earned Nonprofit Management Certificate in 2013  
 - Led nonprofit youth programs emphasizing career readiness  
 - Developed board leadership pipelines and program strategies  
 - Bridged technical skills with human-centered facilitation  
 
-## 🛠️ Tools & Approach  
+**🛠️ Tools & Approach**  
 - Used **Excel** for early data research and workforce analysis  
 - Relied on **Google Drive** for collaboration and document sharing  
-- Applied Innovator’s DNA principles: observing, associating, questioning, experimenting, networking  
+- Applied Innovator’s DNA principles: observing, associating, questioning, experimenting, networking
 
-## 🚩 Highlights  
+-**💻 Digital Transformation Highlight** 
+A key foundation in my nonprofit journey was the **Dallas College STEM Insight Digital Transformation Project**.  
+In my role as Senior Researcher and Facilitator, I led user research, cross-functional collaboration, and data-driven design to create a digital platform connecting students, educators, and employers in STEM pathways.  
+For detailed results and insights, visit:  
+👉 [Dallas College STEM Insight Project Results](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)
+👉 See the existing platform below that is now still an existing platform for Connecting You to Science, Technology, Engineering, and Math in North Texas https://www.steminsight.org/Pages/default.aspx
+
+**🚩 Other Highlights** 
 - Impacted 3 mission-aligned organizations  
 - Supported 12+ youth-centered and career-readiness programs  
 - Advanced governance redesign and leadership pipelines  
 
-## 🔗 Related Work  
+**🔗 Related Work** 
 For detailed insights, see the full case study:  
 👉 [InnovationNet Nonprofit Leadership Platform](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
 
 ⸻
 
-🚀 **Part 3: Innovation in Action (Agility in Ambiguity)**
+🚀 ##Part 3: Innovation in Action (Agility in Ambiguity)##
 
 Now, I work at the intersection of structure and experimentation—helping orgs balance process maturity with adaptive delivery.
 
