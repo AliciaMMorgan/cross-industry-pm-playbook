@@ -96,7 +96,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ### 📌 Featured Example
 
-👉 **👉 👉 [Raytheon Factory Rearrangement Case Study](https://github.com/your-username/innovation-in-action/tree/main/raytheon-factory-rearrangement)**
+👉**[Raytheon Factory Rearrangement Case Study](https://github.com/your-username/innovation-in-action/tree/main/raytheon-factory-rearrangement)
 
 > Led end-to-end execution as sole Capital Projects Manager—delivering a \$2.5M initiative in under 2 months, generating \$3.2M in cost savings and 20,000+ labor hours avoided.
 
