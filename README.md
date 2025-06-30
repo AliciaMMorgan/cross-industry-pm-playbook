@@ -112,7 +112,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ⸻
 
-🌉 ##Part 2: Bridging into Innovation (Cross-Sector Adaptability)##
+## 🌉 Part 2: Bridging into Innovation (Cross-Sector Adaptability)##
 
 **🌱 Early Transition & Foundation (2012–2013)**  
 - Began nonprofit board volunteering while still in corporate  
@@ -130,7 +130,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 - Relied on **Google Drive** for collaboration and document sharing  
 - Applied Innovator’s DNA principles: observing, associating, questioning, experimenting, networking
 
--**💻 Digital Transformation Highlight** 
+**💻 Digital Transformation Highlight** 
 A key foundation in my nonprofit journey was the **Dallas College STEM Insight Digital Transformation Project**.  
 In my role as Senior Researcher and Facilitator, I led user research, cross-functional collaboration, and data-driven design to create a digital platform connecting students, educators, and employers in STEM pathways.  
 For detailed results and insights, visit:  
