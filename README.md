@@ -117,15 +117,32 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 🌉 **Part 2: Bridging into Innovation (Cross-Sector Adaptability)**
 
-I transitioned into nonprofit and education environments where creativity, resourcefulness, and people-centered design became essential.
+# 🌉 Bridging into Innovation (Cross-Sector Adaptability)
 
-▪️ **Case: Dallas College Digital Transformation**
-- Collaborated across departments to connect industry and workforce needs  
-- Led facilitation to identify skill gaps and map tech solutions
+## 🌱 Early Transition & Foundation (2012–2013)  
+- Began nonprofit board volunteering while still in corporate  
+- Focused on youth STEM education and community outreach  
+- Built foundational governance and leadership skills  
 
-▪️ **Case: After-School Program Strategy**
-- Facilitated program redesign through research, empathy interviews, and volunteer board leadership  
-- Shifted from leading to facilitating conversations and co-design
+## 🎯 Formal Program Leadership (2014–2017)  
+- Earned Nonprofit Management Certificate in 2013  
+- Led nonprofit youth programs emphasizing career readiness  
+- Developed board leadership pipelines and program strategies  
+- Bridged technical skills with human-centered facilitation  
+
+## 🛠️ Tools & Approach  
+- Used **Excel** for early data research and workforce analysis  
+- Relied on **Google Drive** for collaboration and document sharing  
+- Applied Innovator’s DNA principles: observing, associating, questioning, experimenting, networking  
+
+## 🚩 Highlights  
+- Impacted 3 mission-aligned organizations  
+- Supported 12+ youth-centered and career-readiness programs  
+- Advanced governance redesign and leadership pipelines  
+
+## 🔗 Related Work  
+For detailed insights, see the full case study:  
+👉 [InnovationNet Nonprofit Leadership Platform](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
 
 ⸻
 
