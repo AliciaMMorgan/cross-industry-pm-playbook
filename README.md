@@ -166,7 +166,7 @@ Now, I work at the intersection of structure and experimentation—helping organ
 
 **Case Studies**
 
-- [Nonprofit Program & Community Leadership](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/strategic-leadership-and-innovation) 
+- [Nonprofit Program & Community Leadership](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
 - [Strategic Leadership & Innovation Consulting](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/strategic-leadership-and-innovation)
   
 ⸻
