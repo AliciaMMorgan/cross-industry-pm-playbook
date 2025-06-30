@@ -34,7 +34,7 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and featured contributor on website blog.  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
 - 🌐 **National Informal STEM Education (NISE) Network**: Featured article for innovation in science and education engagement
-- 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. My shared expertise includes insights on *Leading Innovation in Tradition Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
+- 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. My shared expertise includes insights on *Leading Innovation in Traditional Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
 
 These experiences underscore my ability to translate structure into strategy and scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity, without losing business value along the way.
 
@@ -96,7 +96,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 ### 📌 Featured Example
 
-👉 **raytheon-factory-rearrangement**
+👉 **👉 👉 [Raytheon Factory Rearrangement Case Study](https://github.com/your-username/innovation-in-action/tree/main/raytheon-factory-rearrangement)**
 
 > Led end-to-end execution as sole Capital Projects Manager—delivering a \$2.5M initiative in under 2 months, generating \$3.2M in cost savings and 20,000+ labor hours avoided.
 
