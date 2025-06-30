@@ -135,6 +135,7 @@ A key foundation in my nonprofit journey was the **Dallas College STEM Insight D
 In my role as Senior Researcher and Facilitator, I led user research, cross-functional collaboration, and data-driven design to create a digital platform connecting students, educators, and employers in STEM pathways.  
 For detailed results and insights, visit:  
 👉 [Dallas College STEM Insight Project Results](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)
+
 👉 See the existing platform below that is now still an existing platform for Connecting You to Science, Technology, Engineering, and Math in North Texas https://www.steminsight.org/Pages/default.aspx
 
 **🚩 Other Highlights** 
