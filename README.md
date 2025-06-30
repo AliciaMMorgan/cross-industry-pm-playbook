@@ -104,9 +104,44 @@ Now, I work at the intersection of structure and experimentation—helping orgs 
 
 ▪️ **Consulting & PMP Credentialing**
 - Earned my PMP to bridge the language with enterprise leaders  
-- Use Agile metrics, retrospectives, and continuous learning
+- Use Agile metrics, retrospectives, and continuous 
 
 ⸻
+
+
+🤖 **AI Fluency & Intelligent Tools**
+
+I view AI not as a replacement—but as a powerful **collaborator** in strategic execution, communication, and leadership.
+
+▪️ I use **ChatGPT**, **Claude**, and **Copilot (Microsoft 365)** to:
+- Co-develop presentations
+- Draft, review, and refine messaging
+- Take meeting notes or summarize strategy discussions
+- Check for tone, clarity, accessibility, and executive presence
+- Explore use cases and pressure-test ideas before deployment
+
+▪️ I use **PowerPoint’s AI Designer** and **Microsoft Coach** to elevate the visual and spoken impact of my presentations—ensuring resonance and pacing.
+
+▪️ I rely on tools like **SharePoint**, **OneDrive**, and **Google Drive** for collaboration, versioning, and secure document management.
+
+AI allows me to lead with **efficiency, empathy, and elevation**—transforming how innovation shows up in real time.⸻
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📘 **Resources & Templates**
 
