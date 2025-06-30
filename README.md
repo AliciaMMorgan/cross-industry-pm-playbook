@@ -149,16 +149,26 @@ For detailed insights, see the full case study:
 
 ⸻
 
-🚀 ##Part 3: Innovation in Action (Agility in Ambiguity)##
+## 🚀 Part 3: Innovation in Action (Agility in Ambiguity) ##
 
-Now, I work at the intersection of structure and experimentation—helping orgs balance process maturity with adaptive delivery.
+Now, I work at the intersection of structure and experimentation—helping organizations balance process maturity with adaptive delivery.
 
-▪️ **Executive Nonprofit Leadership**
-- Built scalable program models, drove stakeholder alignment, and implemented agile reporting practices
+### Executive Nonprofit Leadership  
+- Led strategic education and community programs serving 45,000+ students, built scalable models, and secured formal state certifications.  
+- Directed multi-million-dollar budgets, improved operational efficiency by 25%, and partnered across 100+ institutions.
 
-▪️ **Consulting & PMP Credentialing**
-- Earned my PMP to bridge the language with enterprise leaders  
-- Use Agile metrics, retrospectives, and continuous 
+### Consulting & PMP Credentialing  
+- Earned PMP certification focused on agile leadership and business value delivery.  
+- Facilitate Agile retrospectives, stakeholder engagement, and continuous improvement in complex environments.  
+- Speaker at PMI global and chapter events on empathetic leadership, innovation in traditional sectors, and strategic power skills.
+
+---
+
+### Case Studies
+
+- [Nonprofit Program & Community Leadership](../innovationnet-nonprofit-leadership/README.md)  
+- [Strategic Leadership & Innovation (Frontiers of Flight Museum + Consulting)](./strategic-leadership-and-innovation/README.md)  
+```
 
 ⸻
 
