@@ -187,7 +187,7 @@ I also leverage:
 
 
 Favorite tools include:  
-**ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **SharePoint**
+**ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **SharePoint**, **Canva**
 
 These agents are more than tools—they extend my thinking. They allow me to operate at scale while preserving the empathy and strategy required for real impact.
 
