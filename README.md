@@ -200,10 +200,10 @@ AI isn’t just embedded in my documents—it’s part of how I show up in the r
 I rely on:
 
   - 💬 **Google Meet**: Real-time captions and transcripts that support accessibility and accurate note-taking across hybrid teams
-	- 🎥 **Zoom**: Smart summaries, chaptering, and AI-generated action items that help distill long conversations into next steps
-	- 🏢 **Microsoft Teams**: Intelligent recap features that flag key discussion points, assign tasks, and surface follow-ups directly in the chat thread
-	- 📝 **Otter.ai Integration**: Seamless syncing with calendar invites and Zoom for capturing searchable transcripts and collaborative meeting notes
-	- 🔄 **Cross-Platform Sync**: Exporting summaries into OneNote, SharePoint, or project boards to preserve decisions and track accountability
+ - 🎥 **Zoom**: Smart summaries, chaptering, and AI-generated action items that help distill long conversations into next steps
+ - 🏢 **Microsoft Teams**: Intelligent recap features that flag key discussion points, assign tasks, and surface follow-ups directly in the chat thread
+ - 📝 **Otter.ai Integration**: Seamless syncing with calendar invites and Zoom for capturing searchable transcripts and collaborative meeting notes
+ - 🔄 **Cross-Platform Sync**: Exporting summaries into OneNote, SharePoint, or project boards to preserve decisions and track accountability
 
 These tools do more than just record—they create continuity, reduce ambiguity, and free up mental bandwidth for deeper thinking and engagement.
 
