@@ -193,7 +193,20 @@ These agents are more than tools—they extend my thinking. They allow me to ope
 
 ⸻
 
+🤝 **Virtual Collaboration & Meeting Intelligence**
 
+AI isn’t just embedded in my documents—it’s part of how I show up in the room, even virtually. I strategically use video conferencing platforms with built-in transcription and intelligence features to ensure meetings are efficient, inclusive, and actionable.
+
+I rely on:
+	•	💬 Google Meet: Real-time captions and transcripts that support accessibility and accurate note-taking across hybrid teams
+	•	🎥 Zoom: Smart summaries, chaptering, and AI-generated action items that help distill long conversations into next steps
+	•	🏢 Microsoft Teams: Intelligent recap features that flag key discussion points, assign tasks, and surface follow-ups directly in the chat thread
+	•	📝 Otter.ai Integration: Seamless syncing with calendar invites and Zoom for capturing searchable transcripts and collaborative meeting notes
+	•	🔄 Cross-Platform Sync: Exporting summaries into OneNote, SharePoint, or project boards to preserve decisions and track accountability
+
+These tools do more than just record—they create continuity, reduce ambiguity, and free up mental bandwidth for deeper thinking and engagement.
+
+⸻
 
 📊 **Data Fluency & Cross-Functional Collaboration**
 
