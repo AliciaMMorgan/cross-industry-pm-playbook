@@ -183,6 +183,7 @@ I also leverage:
 - 🗣️ **Communication Coaching**: Microsoft Speaker Coach for tone, timing, accessibility, and presence  
 - 🧾 **Document Review**: Drafting and refining strategies, risk logs, and stakeholder briefs with AI as a writing partner  
 - 🧮 **Data Framing**: Using AI to translate complexity into visual dashboards or simplified updates
+
 -🎨 Visual Storytelling: Canva (with Magic Design and AI-powered brand kits) to create compelling, on-brand graphics that accelerate alignment and engagement
 
 
