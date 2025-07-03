@@ -82,7 +82,16 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Harvard Business Review (HBR)**  
 - **HBR Guide: Managing Up and Across**  
 - **HBR Guide: Managing Strategic Initiatives**  
-- **HBR Guide: Setting Your Strategy**  
+- **HBR Guide: Setting Your Strategy**
+- **Black Enterprise Magazine**
+- **DiversityInc Magazine**
+- **Forbes**
+- **The Economist**
+- **Fortune**
+- **Entrepreneur**
+- **Inc.**
+- **Success**
+-  
 
 ---
 
