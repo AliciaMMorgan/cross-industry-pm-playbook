@@ -27,7 +27,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA, PMP  
 - **The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
 - **The Four Factors of Trust** — Stephen M.R. Covey and Rebecca R. Merrill  
-- **How to Know a Person: The Art of Empathy in Leadership and Life** — Unknown (general reference)  
+- **How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** — David Brooks   
 - **The Effective Executive** — Peter F. Drucker  
 
 ---
