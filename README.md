@@ -49,6 +49,8 @@ I created this to:
 
 🧠 **What Guides My Thinking: Business Chemistry®**
 
+Based on research by Deloitte, Business Chemistry is a framework designed to help teams collaborate more effectively by understanding different working styles. The four types—Driver, Guardian, Integrator, and Pioneer—each bring unique strengths to how we lead, innovate, and execute.
+
 According to Deloitte's Business Chemistry®, I am a **primary Driver** and **secondary Guardian**. This unique combination fuels how I lead in both structured and fluid environments:
 
 - As a **Driver**, I value logic, results, and focused execution. I lead with clarity, distill complexity into outcomes, and welcome a challenge that sharpens strategy.
