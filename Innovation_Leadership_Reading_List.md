@@ -8,7 +8,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 
 ## 🌟 Innovation Capital & Leadership
 
-- **Rules of Engagement: Making Connections Last** — Dr. Froswa Booker-Drew  
+- **Rules of Engagement: Making Connections Last** — Dr. Froswa' Booker-Drew  
 - **Innovation Capital: How to Compete and Win Like the World’s Most Innovative Leaders** — Jeff Dyer, Nathan Furr, Curtis Lefrandt  
 - **The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators** — Jeff Dyer, Hal Gregersen, Clayton M. Christensen  
 - **Shut the Hell Up and Sell: Selling without Selling Out** — Ronnell Richards  
