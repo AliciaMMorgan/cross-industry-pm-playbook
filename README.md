@@ -62,7 +62,9 @@ According to Deloitte’s Business Chemistry®, I am a primary Driver and second
 
 🎯 **Why it matters**: This Driver–Guardian combo allows me to align people, systems, and innovation. Whether building out new programs or scaling proven solutions, I apply the discipline of a PMP, the logic of an engineer, and the curiosity of an innovator.
 
-*(Snapshot insights from the report) 🚗 Driver Snapshot
+*(Snapshot insights from the report) 
+
+#### 🚗 Driver Snapshot
  <img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Driver%20Business%20Chemistry.png" width="600"/>
 
 #### 🛡️ Guardian Snapshot
@@ -238,6 +240,7 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 🔗 Stakeholder Engagement Checklist  
 🔗 Risk Log  
 🔗 Sample Retrospective Summary 
+
 🔗[Innovation and Leadership Reading List](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md)
 
 ⸻
