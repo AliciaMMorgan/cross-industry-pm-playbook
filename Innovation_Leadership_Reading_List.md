@@ -78,7 +78,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **The Growth Mindset** — Carol Dweck  
 - **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI Report  
 - **PMI Reports** — Industry research and trend analysis by Project Management Institute  
-- **New Engineer: The Coming Revolution in Engineering Education** — Susan R. Madsen, Maria C. Yang, Joy C. Warner  
+- **A Whole New Engineer: The Coming Revolution in Engineering Education**
+— Susan R. Madsen, Maria C. Yang, Joy C. Warner  
 
 ---
 
