@@ -20,8 +20,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **The Four Agreements: A Practical Guide to Personal Freedom** — Don Miguel Ruiz  
 - **Originals: How Non-Conformists Move the World** — Adam Grant  
 - **The Customer-Funded Business: Start, Finance, or Grow Your Company with Your Customers’ Cash** — John Mullins  
-- **Range: Why Generalists Triumph in a Specialized World** — David Epstein  
-- **The Culture Map: Breaking Through the Invisible Boundaries of Global Business** — Erin Meyer  
+- **Range: Why Generalists Triumph in a Specialized World** — David Epstein 
 - **Moonshot: Game-Changing Strategies to Build Billion-Dollar Businesses** — Luis Perez-Breva  
 - **HBR Guide: Setting Your Strategy** — Harvard Business Review  
 - **Business Chemistry: Practical Science for Work and Life** — Deloitte Research; 4 Types: Drivers, Guardians, Integrators, and Pioneers  
