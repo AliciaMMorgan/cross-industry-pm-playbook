@@ -39,7 +39,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Put Purpose at the Core of Your Strategy: How Successful Companies Redefine Their Business** — Thomas W. Melknight, Ivy Bush, Carl Charles Durden-Rang  
 - **The Dangers of Categorical Thinking: How Hardwired Sorting Hampers Good Decisions** — Bart DeLong and Philip Fernbach  
 - **Gender and Social Capital Research** — Referenced academic research on social capital and gender dynamics (specific author TBD)  
-- **PM World Journal** — Industry-leading journal on project management insights and innovation  
+- **PM World Journal** — Industry-leading journal on project management insights and innovation-
+                         [Check out my contributions](https://pmworldlibrary.net/authors/alicia-morgan/) 
 
 ---
 
