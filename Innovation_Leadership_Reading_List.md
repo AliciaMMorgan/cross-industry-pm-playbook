@@ -91,7 +91,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Entrepreneur**
 - **Inc.**
 - **Success**
--  
+  
 
 ---
 
