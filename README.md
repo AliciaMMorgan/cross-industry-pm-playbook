@@ -53,7 +53,7 @@ Based on research by Deloitte, Business Chemistry is a framework designed to hel
 
 According to Deloitte’s Business Chemistry®, I am a primary Driver and secondary Guardian. This unique pairing shapes how I lead transformation across traditional and emerging environments:
 
-- 🚗 As a **Driver**, I’m strategic, outcome-oriented, and energized by complex challenges. I cut through ambiguity to deliver results.
+- 🚗 As a **Driver**, I’m structured, outcome-oriented, and energized by complex service. I cut through ambiguity and deliver results. I also bring a unique, empathic leadership style, allowing me to lead with both engineering precision and emotional intelligence—ideal for bridging innovation with accountability.
 - 🛡️ As a **Guardian**, I value precision, risk awareness, and structure—essential traits for navigating regulated, high-stakes, or legacy systems.
 
 🔄 In contrast, Pioneers thrive on brainstorming and rapid ideation, while Integrators focus on team cohesion and emotional insight. I collaborate effectively with both—bringing structure to vision, and momentum to consensus.
