@@ -69,7 +69,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Engineering Economics** — Foundational principles of economic decision-making in engineering  
 - **Earned Value Management** — Project management technique integrating scope, time, and cost data  
 - **Cost Ratios Importance** — Key financial metrics for project analysis  
-- **Leading and Lagging Indicators** — Understanding performance metrics for forecasting and tracking progress  
+- **Leading and Lagging Indicators** — Understanding performance metrics for forecasting and tracking
+- **70‑20‑10 Rule (of Innovation)**- used strategically as a guide for innovation resource allocation:
 - **Business Acumen** — Critical business knowledge and decision-making skills  
 - **Power Skills Development** — Growth in leadership and interpersonal effectiveness  
 - **The Growth Mindset** — Carol Dweck  
