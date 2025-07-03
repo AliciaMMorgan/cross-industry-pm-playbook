@@ -66,11 +66,13 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 
 ## 🔧 Business, Technical & Data Fluency
 
-- **Engineering Economics** — Foundational principles of economic decision-making in engineering  
+- **Engineering Economics** — Foundational principles of economic decision-making in engineering
+- **According to the Project Management Institute (PMI)**,project initiatives should only move forward when the expected **business value** outweighs the combined **effort**, **risk**, and **cost of execution.**
+- **Book value**, **depreciation schedules**, and **internal rate of return (IRR)** are core financial concepts tied to project investments. Many organizations set **IRR thresholds between 12%–25%**, especially for innovation or capital-intensive initiatives.
 - **Earned Value Management** — Project management technique integrating scope, time, and cost data  
 - **Cost Ratios Importance** — Key financial metrics for project analysis  
 - **Leading and Lagging Indicators** — Understanding performance metrics for forecasting and tracking
-- **70‑20‑10 Rule (of Innovation)**- used strategically as a guide for innovation resource allocation:
+- **70‑20‑10 Rule (of Innovation)**- used strategically as a guide for innovation resource allocation
 - **Business Acumen** — Critical business knowledge and decision-making skills  
 - **Power Skills Development** — Growth in leadership and interpersonal effectiveness  
 - **The Growth Mindset** — Carol Dweck  
