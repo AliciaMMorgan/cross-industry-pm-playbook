@@ -60,8 +60,9 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Adversaries into Allies: How to Work with People You Don’t Agree with or Like or Trust** — Bob Burg  
 - **No Ceilings, No Walls: What Women Haven’t Been Told About Leadership from Career Start to the Corporate Boardroom** — Lisa Ann Edwards  
 - **Mindshift: Breaking Through Obstacles to Learn and Discover Your Hidden Potential** — Barbara Oakley  
-- **Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race** — Margot Lee Shetterly  
-
+- **Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race** — Margot Lee Shetterly
+- **The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage** — Daymond John (with Daniel Paisner)
+  
 ---
 
 ## 🔧 Business, Technical & Data Fluency
