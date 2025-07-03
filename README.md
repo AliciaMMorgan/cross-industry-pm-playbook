@@ -223,7 +223,7 @@ As an innovation leader and program strategist, I recognize that **data isn’t 
 
 ▪️ I collaborate across enterprise environments that leverage **data lakes**—centralized repositories of structured and unstructured data—to enable smarter decision-making.
 
-▪️ While I don’t build dashboards from scratch, I actively lead initiatives where **Power BI**, **Excel**, and stakeholder insight intersect to deliver clarity and action.
+▪️ I actively lead initiatives where **Power BI**, **Excel**, and stakeholder insight intersect to deliver clarity and action.
 
 ▪️ My role is to ensure the **right questions are being asked**, the **right stakeholders are engaged**, and the **data tells a story** that leads to action.
 
