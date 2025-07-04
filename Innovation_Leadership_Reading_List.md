@@ -1,161 +1,160 @@
+
 # 📚 Cross-Industry Innovation & Leadership Reading List
 
-Welcome to the curated reading list for innovation capital, leadership, social capital, strategic execution, data fluency, and personal growth — all essential for thriving in cross-industry project management and innovation leadership.
+Welcome to a living reading list curated to reflect the evolution from engineer and individual contributor to cross-industry innovation leader. These resources span leadership, influence, innovation capital, strategic communication, organizational dynamics, social capital, philanthropy, and personal development.  
 
-This list complements the Cross-Industry PM Playbook and is designed to build your innovation mindset and leadership capabilities.
+They reflect 15+ years of growth — from engineering execution to leading innovation in traditional and formal education settings and beyond.
 
-> 🛠️ This list is actively maintained. Suggestions welcome via GitHub Issues or Discussions.
+> 🛠️ This document is actively evolving. Treat this version as current, but updates are ongoing. Suggestions welcome via GitHub Issues or Discussions.
 
 ---
 
-## 🌟 Innovation Capital & Leadership
+## 🌟 Innovation Capital, Influence & Leadership
 
-- **Rules of Engagement: Making Connections Last** — Dr. Froswa' Booker-Drew  
-- **The Culture Map: Breaking Through the Invisible Boundaries of Global Business** — Erin Meyer  
+These selections support mindset shifts in building trust, selling ideas, understanding social capital, and navigating innovation ecosystems.
+
+- **Rules of Engagement: Making Connections Last** — Dr. Froswa’ Booker-Drew  
+- **Front Page Wisdom: Navigating Leadership, Pressures, and Barriers as a Woman of Color** — Dr. Froswa’ Booker-Drew  
+- **Empowering Charity: A Narrative of Philanthropy** — Dr. Froswa’ Booker-Drew  
+- **The Seven Faces of Philanthropy: A New Approach to Cultivating Donors** — Russ Alan Prince and Karen Maru File  
 - **Innovation Capital: How to Compete and Win Like the World’s Most Innovative Leaders** — Jeff Dyer, Nathan Furr, Curtis Lefrandt  
 - **The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators** — Jeff Dyer, Hal Gregersen, Clayton M. Christensen  
-- **Shut the Hell Up and Sell: Selling without Selling Out** — Ronnell Richards  
+- **Shut the Hell Up and Sell: Selling Without Selling Out** — Ronnell Richards  
 - **The Go-Giver: A Little Story About a Powerful Business Idea** — Bob Burg and John David Mann  
 - **The Go-Giver Influencer** — Bob Burg and John David Mann  
+- **Relentless: From Good to Great to Unstoppable** — Tim S. Grover with Shari Wenk  
+- **Rework** — Jason Fried and David Heinemeier Hansson  
+- **Originals: How Non-Conformists Move the World** — Adam Grant  
+- **How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** — David Brooks  
+- **The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever** — Michael Bungay Stanier  
+- **The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter** — Michael D. Watkins  
+- **The Effective Executive** — Peter F. Drucker  
 - **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones** — James Clear  
 - **Deep Work: Rules for Focused Success in a Distracted World** — Cal Newport  
-- **The Four Agreements: A Practical Guide to Personal Freedom** — Don Miguel Ruiz  
-- **Originals: How Non-Conformists Move the World** — Adam Grant  
-- **The Customer-Funded Business: Start, Finance, or Grow Your Company with Your Customers’ Cash** — John Mullins  
+- **Business Chemistry: Practical Science for Work and Life** — Deloitte Research  
 - **Range: Why Generalists Triumph in a Specialized World** — David Epstein  
 - **Moonshot: Game-Changing Strategies to Build Billion-Dollar Businesses** — Luis Perez-Breva  
-- **HBR Guide: Setting Your Strategy** — Harvard Business Review  
-- **Business Chemistry: Practical Science for Work and Life** — Deloitte Research  
-- **The Knowledge Café: Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA, PMP  
-- **The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
+- **The 12 Week Year: Get More Done in 12 Weeks Than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
 - **The Four Factors of Trust: How Organizations Can Earn Lifelong Loyalty** — Ashley Reichheld and Amelia Dunlop  
-- **How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** — David Brooks  
-- **The Effective Executive** — Peter F. Drucker  
-- **The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever** — Michael Bungay  
-- **The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter** — Michael D. Watkins  
+- **HBR Guide: Setting Your Strategy** — Harvard Business Review  
+- **The Customer-Funded Business** — John Mullins  
 
 ---
 
-## 📰 Key Articles & Reports
+## 🔑 Influence, Trust & Communication Across Organizations
 
-- **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI Report  
-- **Don’t Let Metrics Undermine Your Business: An Obsession with Numbers Can Sink Your Strategy** — Michael Harris and Bill Taylor, *Harvard Business Review*, Sep–Oct 2019  
-- **Put Purpose at the Core of Your Strategy** — Thomas W. Melknight, Ivy Bush, Carl Charles Durden-Rang  
-- **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach  
-- **The Gender of Social Capital** — Ronald S. Burt’s peer-reviewed research on social capital and gender dynamics  
-- **PM World Journal** — Industry-leading journal on project management insights and innovation  
-  - [Check out my contributions](https://pmworldlibrary.net/authors/alicia-morgan/)  
+> Influence is about pull, not push. You build trust over time, not by title alone but through credibility, clarity, and consistent contribution. Understand that power exists at **every level of an organization**. Executive titles don’t always mean decision-making authority, and grassroots champions often hold the key to momentum.
+
+Tailoring communication to your audience — whether pitching ideas, managing up, or building coalitions — is essential. These resources help decode the **language of decision-makers** and foster collaboration across hierarchical and matrix structures.
 
 ---
 
 ## 🎨 Creativity & Personal Growth
 
 - **The Artist’s Way: A Spiritual Path to Higher Creativity** — Julia Cameron  
+- **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. SiriSat Nam  
 - **You Learn by Living** — Eleanor Roosevelt  
 - **Becoming** — Michelle Obama  
-- **The Memo: What Women of Color Need to Know to Secure a Seat at the Table** — Minda Harts  
-- **Eleven Rings: The Soul of Success** — Phil Jackson  
-- **The Element: How Finding Your Passion Changes Everything** — Sir Ken Robinson and Lou Aronica  
-- **Rainmaker: How to Become a Rainmaker — The Rules for Getting and Keeping Customers and Clients** — Jeffrey J. Fox  
-- **The Path: Reading Your Mission Statement for Your Work and for Life** — Laurie Beth Jones  
-- **Adversaries into Allies: How to Work with People You Don’t Agree with or Like or Trust** — Bob Burg  
-- **No Ceilings, No Walls: What Women Haven’t Been Told About Leadership from Career Start to the Corporate Boardroom** — Lisa Ann Edwards  
-- **Mindshift: Breaking Through Obstacles to Learn and Discover Your Hidden Potential** — Barbara Oakley  
 - **Hidden Figures** — Margot Lee Shetterly  
-- **The Power of Broke** — Daymond John (with Daniel Paisner)  
+- **The Memo: What Women of Color Need to Know to Secure a Seat at the Table** — Minda Harts  
+- **Set Boundaries, Find Peace: A Guide to Reclaiming Yourself** — Nedra Glover Tawwab  
+- **Rest Is Resistance: A Manifesto** — Tricia Hersey  
+- **The Secret Language of Color Cards & Guidebook** — Inna Segal  
+- **We Should All Be Millionaires** — Rachel Rodgers  
+- **Eleven Rings: The Soul of Success** — Phil Jackson  
+- **Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential** — Barbara Oakley  
+- **No Ceilings, No Walls: What Women Haven’t Been Told About Leadership from Career Start to the Corporate Boardroom** — Lisa Ann Edwards  
+- **Rainmaker: How to Become a Rainmaker — The Rules for Getting and Keeping Customers and Clients** — Jeffrey J. Fox  
+- **The Path: Creating Your Mission Statement for Work and for Life** — Laurie Beth Jones  
+- **Adversaries into Allies: How to Work with People You Don’t Agree with or Like or Trust** — Bob Burg  
+- **The Element: How Finding Your Passion Changes Everything** — Sir Ken Robinson and Lou Aronica  
+- **The Power of Broke** — Daymond John with Daniel Paisner  
+- **Contagious: Why Things Catch On** — Jonah Berger  
+- **Be So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love** — Cal Newport  
 
 ---
 
 ## 🔧 Business, Technical & Data Fluency
 
-- **Engineering Economics** — Foundational principles of economic decision-making in engineering  
-- According to PMI, project initiatives should only move forward when the expected **business value** outweighs the combined **effort**, **risk**, and **cost of execution**.  
-- **Book value**, **depreciation schedules**, and **internal rate of return (IRR)** — Core financial concepts tied to project investments  
-- **Earned Value Management** — Technique integrating scope, time, and cost data  
-- **Cost Ratios Importance** — Key financial metrics for project analysis  
-- **Dashboards (e.g., Power BI, Tableau)** — Visualization tools for tracking KPIs and aligning teams  
-- **Heat maps, bar charts, and line graphs** — Storytelling with data in cross-functional contexts  
-- **Data storytelling** — Turning raw data into insights with visual framing  
-- **Leading and Lagging Indicators** — Understanding performance metrics  
-- **70‑20‑10 Rule (of Innovation)** — Guide for innovation resource allocation  
-- **Business Acumen** — Decision-making and financial fluency  
-- **Power Skills Development** — Leadership and interpersonal growth  
+- **Engineering Economics** — Core concepts: book value, depreciation, IRR  
+- **Earned Value Management** — Scope, time, and cost integration  
+- **Cost Ratios** — Project and operational analysis  
+- **Power BI, Tableau, Dashboards** — Communicating value with data  
+- **Data Storytelling** — Narrative framing of insights  
+- **Leading and Lagging Indicators** — Performance metrics  
+- **70-20-10 Rule (of Innovation)** — Balancing core, adjacent, and transformative work  
+- **Business Acumen** — Budgeting, tradeoffs, revenue models  
+- **Project Management Methodologies** — Agile, Waterfall, hybrid fluency  
+- **Social Network Theory** — Strong vs. weak ties in innovation flow  
 - **The Growth Mindset** — Carol Dweck  
-- **Social network theory** — Strong vs. weak ties in opportunity flow  
-- **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI Report  
-- **PMI Reports** — Industry research and trend analysis  
-- **A Whole New Engineer: The Coming Revolution in Engineering Education** — Susan R. Madsen, Maria C. Yang, Joy C. Warner  
-- **Learning styles & engagement** — Visual, auditory, kinesthetic modalities for inclusive communication  
-- **Creating presentations and materials** — Accessibility features like contrast, captions, and alt text  
+- **Creating Accessible Materials** — Visual contrast, closed captions, alt text  
+- **STEAM + Arts Integration: Insights and Practical Application** — Ed.D. Perspectives  
+- **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg & Mark Somerville  
 
 ---
 
-## 📖 Magazines & Ongoing Learning
+## 📰 Key Articles & Reports
 
-- **Fast Company**  
-- **Harvard Business Review (HBR)**  
-- **HBR Guide: Managing Up and Across**  
-- **HBR Guide: Managing Strategic Initiatives**  
-- **HBR Guide: Setting Your Strategy**  
-- **Black Enterprise Magazine**  
-- **DiversityInc Magazine**  
-- **Forbes**  
-- **The Economist**  
-- **Fortune**  
-- **Entrepreneur**  
-- **Inc.**  
-- **Success**  
-- **Local or regional business journals** (e.g., Dallas Business, Crain’s)  
+- **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI  
+- **The Gender of Social Capital** — Ronald S. Burt  
+- **Don’t Let Metrics Undermine Your Business** — Michael Harris and Bill Taylor, *Harvard Business Review*  
+- **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.  
+- **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach  
+- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/alicia-morgan/)  
 
 ---
 
-## 📊 Research and Data Sources
+## 📊 Research & Data Sources
 
 - **Pew Research Center**  
 - **Gallup**  
-- **Statista**  
 - **Gartner Research**  
-- **WEF Future of Jobs & Innovation Reports**  
-- **OECD Science, Technology and Innovation Outlook**  
 - **CB Insights**  
-- **MIT Initiative on the Digital Economy (IDE)**  
-- **Local or regional research centers, university institutes, and workforce boards**  
+- **OECD STI Outlook**  
+- **Statista**  
 - **McKinsey Global Institute**  
-- **Local Libraries** — Free access to databases and archives  
-- **Technology rankings and lists** — U.S. News, Forbes, CB Insights  
+- **MIT Initiative on the Digital Economy**  
+- **World Economic Forum – Future of Jobs Reports**  
+- **Local workforce boards, libraries, and university centers**  
+
+---
+
+## 🎓 Ongoing Learning & Skills Development
+
+- **Coursera** — Certificates from Google, Wharton, etc.  
+- **edX** — MIT, Harvard, and global universities  
+- **LinkedIn Learning** — PM, data, influence  
+- **Microsoft Learn** — Power Platform, AI Copilot  
+- **Google AI / Digital Garage** — AI fluency  
+- **IBM SkillsBuild** — Free workforce upskilling  
+- **DataCamp** — Python, analytics, data storytelling  
+- **FutureLearn** — Innovation, tech, inclusion  
+- **Khan Academy** — Stats, finance, reasoning  
 
 ---
 
 ## 🧠 Professional Organizations
 
-- **NSBE** (National Society of Black Engineers)  
-- **SHPE** (Society of Hispanic Engineers)  
-- **SWE** (Society of Women Engineers)  
-- **IIL** (International Institute for Learning)  
-- **PMI** (Project Management Institute)  
-
-> This is a select list of affiliations; additional organizations not listed.
+- **NSBE** – National Society of Black Engineers  
+- **SHPE** – Society of Hispanic Professional Engineers  
+- **SWE** – Society of Women Engineers  
+- **PMI** – Project Management Institute  
+- **IIL** – International Institute for Learning  
 
 ---
 
-## 🎓 Training Platforms and Skills Training
+## 🧭 Why This List Matters
 
-Upskilling in innovation, AI fluency, data literacy, and project leadership through reputable platforms.
+This list is not just a collection — it’s a map for navigating influence, organizational systems, and personal development. It reminds us:
 
-- **Coursera** – Certificates and specializations from Google, Stanford, Wharton  
-- **edX** – University-led learning in AI, data science, leadership, systems thinking  
-- **Google AI / Google Digital Garage** – AI and digital skills courses  
-- **Microsoft Learn** – Copilot, Azure, Power Platform, and data training  
-- **IBM SkillsBuild** – Free tech upskilling focused on application  
-- **LinkedIn Learning** – Development in PM, communication, tech tools  
-- **DataCamp** – Hands-on Python, data viz, analytics  
-- **FutureLearn** – Global courses on tech and innovation  
-- **Khan Academy** – Foundations in statistics, finance, logic  
-
-> _This is a representative list, not an exhaustive one. Platforms vary by goals, industry, and learning style._
+- Influence is built over time, not granted by title.
+- Every level of an organization holds power — listen deeply and build coalitions.
+- Innovation lives in the intersections: technical fluency, leadership presence, and relationship intelligence.
+- Understanding hierarchy is critical — not to reinforce it, but to effectively **communicate across it**.
+- Referrals, influence, and advocacy are often **transformational**, not transactional.
 
 ---
 
-Thank you for exploring this reading list! Your journey through these books, reports, and articles will strengthen your cross-industry leadership, innovation skills, and personal growth as a project and innovation leader.
+> _Use this guide to mentor yourself — and others — across disciplines, industries, and challenges. It is living, growing, and a reflection of continuous evolution._
 
----
+
