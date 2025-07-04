@@ -55,7 +55,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. Siri Sat Nam  
 - **You Learn by Living** — Eleanor Roosevelt  
 - **Becoming** — Michelle Obama  
-- **Hidden Figures:The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race** — Margot Lee Shetterly  
+- **Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race** — Margot Lee Shetterly  
 - **The Memo: What Women of Color Need to Know to Secure a Seat at the Table** — Minda Harts  
 - **Set Boundaries, Find Peace: A Guide to Reclaiming Yourself** — Nedra Glover Tawwab  
 - **Rest Is Resistance: A Manifesto** — Tricia Hersey  
