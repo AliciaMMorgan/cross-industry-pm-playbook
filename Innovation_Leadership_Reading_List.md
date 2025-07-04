@@ -130,6 +130,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **DataCamp** — Python, analytics, data storytelling  
 - **FutureLearn** — Innovation, tech, inclusion  
 - **Khan Academy** — Stats, finance, reasoning
+- **TEDx Talks** — Bite-sized thought leadership and storytelling to inspire and expand thinking across industries and disciplines.
 
   > _This is a representative list, not a comprehensive one. Explore platforms based on your industry, learning preferences, accessibility needs, and long-term goals._
 
