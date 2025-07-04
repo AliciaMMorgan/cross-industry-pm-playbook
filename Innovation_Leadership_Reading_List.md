@@ -134,14 +134,27 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **IIL**(International Institute for Learning)
 - **PMI**(Project Management Institute)
 
-**This is a select list of affiliations; additional organizations not listed.**
+**This is a select list of affiliations; additional organizations not listed.
 
 
+### 🎓 Training Platforms and Skills Training  
+Upskilling in innovation, AI fluency, data literacy, and project leadership through reputable platforms.
 
+- **Coursera** – Professional certificates and specializations from institutions like Google, Stanford, and Wharton  
+- **edX** – University-led learning in AI, data science, leadership, and systems thinking  
+- **Google AI / Google Digital Garage** – Free and paid AI and digital skills courses  
+- **Microsoft Learn** – Training paths for Copilot, Azure, Power Platform, and data fluency  
+- **IBM SkillsBuild** – Free AI and tech upskilling focused on practical applications  
+- **LinkedIn Learning** – Professional development in project management, communication, and tech tools  
+- **DataCamp** – Hands-on learning in Python, data visualization, and analytics  
+- **FutureLearn** – Social learning with global universities on emerging tech and innovation  
+- **Khan Academy** – Foundational learning in statistics, logic, finance, and more  
 
-  
+> _This is a representative list, not an exhaustive one. There are many other excellent platforms depending on your goals, industry, and learning style._
+
 
 ---
+
 
 Thank you for exploring this reading list! Your journey through these books, reports, and articles will strengthen your cross-industry leadership, innovation skills, and personal growth as a project and innovation leader.
 
