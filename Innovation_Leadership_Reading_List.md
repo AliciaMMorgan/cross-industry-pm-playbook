@@ -121,6 +121,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **MIT Initiative on the Digital Economy (IDE)**
 - **Local or regional research centers, university institutes, and workforce boards**
 - **McKinsey Global Institute**
+- **Local Libraries** — Rich access to business databases, research tools, and historical archives—often free with a library card.
 
 ---
 
