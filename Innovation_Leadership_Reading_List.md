@@ -118,6 +118,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **OECD Science, Technology and Innovation Outlook – Global innovation, R&D, policy benchmarks**
 - **CB Insights**
 - **MIT Initiative on the Digital Economy (IDE)**
+- **Local or regional research centers, university institutes, and workforce boards**
+
 ---
 
 ## 🧠 Professional Organizations
