@@ -134,7 +134,10 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **IIL**(International Institute for Learning)
 - **PMI**(Project Management Institute)
 
-**This is a select list of affiliations; additional organizations not listed.
+**This is a select list of affiliations; additional organizations not listed. 
+
+
+---
 
 
 ### 🎓 Training Platforms and Skills Training  
