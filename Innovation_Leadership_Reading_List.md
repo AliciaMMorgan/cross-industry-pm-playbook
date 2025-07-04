@@ -108,6 +108,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **SHPE(Society of Hispanic Engineers)**
 - **SWE(Society of Women Engineers)**
 - **International Institute for Learning (IIL)**
+- **PMI(Project Management Institute)**
+
 
 
   
