@@ -84,7 +84,7 @@ This section is designed to help professionals grow their business acumen, commu
 
 ### 🧭 Strategic Communication & Executive Fluency
 
-- **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights — and when to bring each forward for maximum influence.
+- **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights, and when to bring each forward for maximum influence.
 - **Executive Communication: Brevity, Clarity & Structure** — Crafting proposals, summaries, and strategic communications for senior leaders requires precision and focus. Practice expressing your core idea in 500 words, then 250, then a single sentence. Use readability tools (e.g., Flesch Reading Ease) and transition words to improve flow and impact.
 - **Never Split the Difference: Negotiating As If Your Life Depended On It** – Chris Voss
   Former FBI hostage negotiator shares tactical negotiation techniques that apply to business and everyday life. Essential for mastering influence and strategic conversations that lead to better outcomes.
@@ -126,7 +126,7 @@ This section is designed to help professionals grow their business acumen, commu
 - **Front-End vs. Back-End Business and Project Management** — Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives.
 - **Social Network Theory** — Strong vs. weak ties in innovation flow.
 - **Creating Accessible Materials** — Visual contrast, closed captions, alt text.
-- **STEAM + Arts Integration: Insights and Practical Application** — A practitioner-led anthology featuring 12 contributors—educators, engineers, teaching artists, and cultural programmers—who share how STEAM+ arts integration enriches learning environments. - Dr. Jacqueline Cofield, (*I am also one of the contributors**)
+- **STEAM + Arts Integration: Insights and Practical Application** — A practitioner-led anthology featuring 12 contributors—educators, engineers, teaching artists, and cultural programmers—who share how STEAM+ arts integration enriches learning environments. - Dr. Jacqueline Cofield, (*I am also one of the contributors*)
 - **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg, Mark Somerville, and Catherine Whitney.
 
 ### 🤖 Emerging Tech, Risk & Responsible AI
@@ -139,12 +139,11 @@ This section is designed to help professionals grow their business acumen, commu
 
 ### 🧠 Learning Styles & Reflective Practice
 
-> **Recognizing diverse user accessibility needs and learning preferences** - It strengthens innovation leadership. Reflective frameworks like Bloom’s Taxonomy support mentoring and continuous growth._
-
-- **Inclusive design and accessibility** - Ensuring everyone including people with disabilities or diverse learning needs can fully engage with content and tools. This includes thoughtful choices in typeface, color contrast, alt text, clear language, and layout to support screen readers and other assistive technologies. 
+> **Recognizing diverse user accessibility needs and learning preferences** - Strengthens innovation leadership. Reflective frameworks like Bloom’s Taxonomy support mentoring and continuous growth._
+- **Inclusive design and accessibility** - Ensure everyone, including people with disabilities or diverse learning needs, can fully engage with content and tools. This includes thoughtful choices in typeface, color contrast, alt text, clear language, and layout to support screen readers and other assistive technologies. 
 - **Understanding varied learning styles** - Visual, auditory, reading/writing, and kinesthetic—improves communication and knowledge transfer.  
 - **Bloom’s Taxonomy** - Provides a structured approach to learning objectives and reflective leadership. 
-- **Generational Digital Natives** - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns. They often favor direct, impact-driven messaging and diverse communication modes that may differ from previous generations. Embracing these styles while fostering a shared understanding across communication preferences can enhance collaboration and mutual respect.
+- **Generational Digital Natives** - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns. They often favor direct, impact-driven messaging and diverse communication modes that differ from previous generations. Embracing these styles while fostering a shared understanding across communication preferences can enhance collaboration and mutual respect.
 
 
 ---
