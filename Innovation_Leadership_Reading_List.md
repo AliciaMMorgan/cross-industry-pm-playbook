@@ -81,6 +81,9 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **PMI Reports** — Industry research and trend analysis by Project Management Institute  
 - **A Whole New Engineer: The Coming Revolution in Engineering Education**
 — Susan R. Madsen, Maria C. Yang, Joy C. Warner  
+- **Learning styles & engagement** — Understanding diverse learners, modalities (visual, auditory, kinesthetic), and tailoring communication for effective engagement across teams.
+- **Creating presentations and materials** with accessibility in mind (e.g., color contrast, captions, alt text, etc.) to support inclusive, audience-aware communication.
+
 
 ---
 
