@@ -186,7 +186,9 @@ Ongoing publications offering thought leadership, industry trends, creative insi
 
 ## 🧭 Why This List Matters
 
-This list is not just a collection — it’s a map for navigating influence, organizational systems, and personal development. It reminds us:
+This list is not just a collection — it’s a map for navigating influence, organizational systems, and personal development. 
+
+It reminds us:
 
 - Influence is built over time, not granted by title.
 - Every level of an organization holds power — listen deeply and build coalitions.
