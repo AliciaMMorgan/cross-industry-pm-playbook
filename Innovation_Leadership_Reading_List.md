@@ -78,7 +78,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 ## 🔧 Business, Technical & Data Fluency
 
-This section is designed to help technical professionals grow their business acumen, communicate across roles, manage resources effectively, and lead projects with clarity. It blends foundational knowledge with strategic thinking and emergent technologies — supporting transitions from execution to influence.
+This section is designed to help professionals grow their business acumen, communicate across roles, manage resources effectively, and lead projects with clarity. It blends foundational knowledge with strategic thinking and emergent technologies — supporting transitions from execution to influence.
 
 ### 🧭 Strategic Communication & Executive Fluency
 
