@@ -136,7 +136,7 @@ This section is designed to help professionals grow their business acumen, commu
 
 > _Recognizing diverse user accessibility needs and learning preferences strengthens innovation leadership. Reflective frameworks like Bloom’s Taxonomy support mentoring and continuous growth._
 
-- Inclusive design and accessibility are essential for equitable innovation impact.  
+- Inclusive design and accessibility ensure everyone—including people with disabilities or diverse learning needs—can fully engage with content and tools. This includes thoughtful choices in typeface, color contrast, alt text, clear language, and layout to support screen readers and other assistive technologies. 
 - Understanding varied learning styles—visual, auditory, reading/writing, and kinesthetic—improves communication and knowledge transfer.  
 - Bloom’s Taxonomy provides a structured approach to learning objectives and reflective leadership. learning objectives and reflective leadership.
 
