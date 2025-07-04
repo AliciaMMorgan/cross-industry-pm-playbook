@@ -79,7 +79,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 ## 🔧 Business, Technical & Data Fluency
 
-- **Front-End vs. Back-End Business and Project Management- Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives.
+- **Front-End vs. Back-End Business and Project Management** - Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives.
 - **Engineering Economics** — Core concepts: book value, depreciation, IRR  
 - **Earned Value Management** — Scope, time, and cost integration  
 - **Cost Ratios** — Project and operational analysis
