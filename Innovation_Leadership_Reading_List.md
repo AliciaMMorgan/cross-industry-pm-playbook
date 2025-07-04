@@ -89,7 +89,8 @@ This section is designed to help professionals grow their business acumen, commu
 - **Never Split the Difference: Negotiating As If Your Life Depended On It** – Chris Voss
   Former FBI hostage negotiator shares tactical negotiation techniques that apply to business and everyday life. Essential for mastering influence and strategic conversations that lead to better outcomes.
 - **Business Pitching & Proposals** — Learn how to frame value propositions for diverse audiences. Differentiate between technical briefs, business cases, and executive summaries. Tailor your depth, structure, and tone based on stakeholder needs, whether for funding, partnerships, or strategic alignment.
-- **Empathy Mapping** — A design thinking tool that supports better communication, stakeholder alignment, and user understanding.
+- **Empathy Mapping** — A design thinking tool that supports better communication, stakeholder alignment, and user understanding 
+- **Placemaking & Place-Based Innovation* - Incorporates community assets and cultural context to drive localized economic development and sustainable business models. It aligns budgeting and investment strategies with equitable growth, emphasizing inclusive value creation grounded in place and people.
 - **Tuckman’s Stages of Group Development** — Forming, Storming, Norming, Performing, and Adjourning — helps navigate team dynamics over time.
 - **Maslow’s Hierarchy of Needs** — Helps leaders understand individual motivations and create conditions for high performance.
 
