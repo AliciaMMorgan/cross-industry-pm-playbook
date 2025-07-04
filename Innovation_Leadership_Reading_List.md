@@ -102,6 +102,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Entrepreneur**
 - **Inc.**
 - **Success**
+- **Local or regional business journals (e.g., *Dallas Business Journal*, *Crain’s*)
 
 ## 🧠 Professional Organizations
 - **NSBE**(National Society of Black Engineers)
