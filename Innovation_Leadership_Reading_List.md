@@ -130,7 +130,8 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **DataCamp** — Python, analytics, data storytelling  
 - **FutureLearn** — Innovation, tech, inclusion  
 - **Khan Academy** — Stats, finance, reasoning
-- **TEDx Talks** — Bite-sized thought leadership and storytelling to inspire and expand thinking across industries and disciplines.
+- **TEDx Talks** — Bite-sized thought leadership and storytelling to inspire and expand thinking across industries and disciplines 
+- **YouTube** — A powerful platform for informal education, practical application, and skills development. Learn from thought leaders, practitioners, subject matter experts, and educators offering real-world insights across industries. Useful for everything from technical tutorials to career advice and case-based learning.
 
   > _This is a representative list, not a comprehensive one. Explore platforms based on your industry, learning preferences, accessibility needs, and long-term goals._
 
