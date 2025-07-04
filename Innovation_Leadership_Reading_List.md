@@ -135,11 +135,11 @@ This section is designed to help professionals grow their business acumen, commu
 
 ## 📰 Key Articles & Reports
 
-- **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI
+- **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — *PMI*
 - **The Gender of Social Capital** — Ronald S. Burt
 - **Don’t Let Metrics Undermine Your Business** — Michael Harris and Bill Taylor, *Harvard Business Review*
-- **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.
-- **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach
+- **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.,  *Harvard Business Review*
+- **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach, *Harvard Business Review*
 - **PM World Journal** — [Explore my contributions](https://pmworldlibrary.net/authors/alicia-morgan/)
 
 ---
