@@ -99,6 +99,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Maslow’s Hierarchy of Needs** — Helps leaders understand individual motivations and create conditions for high performance.
 
 
+
 💡 *Note:* Understanding **risk attitudes**—how individuals and organizations perceive and respond to uncertainty—is essential for managing cross-functional initiatives, making investment decisions, and building innovative cultures.
 
 
