@@ -169,6 +169,7 @@ Ongoing publications offering thought leadership, industry trends, creative insi
 - **Inc.**
 - **Success**
 - **Bloomberg Businessweek**
+- **Aviation Week & Space Technology**
 - **Psychology Today**
 - **Wired**
 - **Stanford Social Innovation Review**
