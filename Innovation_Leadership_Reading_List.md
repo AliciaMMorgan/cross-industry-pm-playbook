@@ -81,8 +81,8 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 - **Enterprise Agility vs. Antifragility** — Understand the difference between adapting to change (agility) and growing stronger from volatility (antifragility). Enterprise agility emphasizes flexibility, responsiveness, and lean structures; antifragility emphasizes decentralized decision-making, redundancy, and systems that thrive under stress. Both are critical lenses for designing organizations that can navigate complexity and disruption.
 - **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights — and when to bring each forward for maximum influence.
-- **Front-End vs. Back-End Business and Project Management** - Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives.
-- **Engineering Economics** — Core concepts: book value, depreciation, IRR  
+- **Front-End vs. Back-End Business and Project Management** - Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives
+- **Engineering Economics** — Core concepts: book value, depreciation, IRR *(Internal Rate of Return, typically acceptable between 12–25% depending on industry; used to evaluate the profitability of investments and projects — a critical tool in business decision-making)*  
 - **Earned Value Management** — Scope, time, and cost integration  
 - **Cost Ratios** — Project and operational analysis
 - **Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine** — Mike Michalowicz  
