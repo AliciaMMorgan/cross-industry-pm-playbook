@@ -96,9 +96,9 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg, Mark Somerville, and Catherine Whitney
 - **Empathy mapping** — A design thinking tool that supports better communication, stakeholder alignment, and user understanding.
 - **Tuckman’s Stages of Group Development** — Forming, Storming, Norming, Performing, and Adjourning — helps navigate team dynamics over time.
-- **Maslow’s Hierarchy of Needs** — Helps leaders understand individual motivations and create conditions for high performance.
-
-
+- **Maslow’s Hierarchy of Needs** — Helps leaders understand individual motivations and create conditions for high performance 
+- **AI agents & orchestration frameworks** — Leveraging emerging agentic stacks (e.g., LangChain, AutoGen, CrewAI) to automate data pipelines, documentation, and project workflows while keeping a human-in-the-loop for oversight.
+- **Responsible AI & ethical decision-making** — Applying frameworks such as the NIST AI Risk Management Framework and IEEE’s Ethically Aligned Design to balance innovation speed with transparency, bias mitigation, privacy, and societal impact.
 
 💡 *Note:* Understanding **risk attitudes**—how individuals and organizations perceive and respond to uncertainty—is essential for managing cross-functional initiatives, making investment decisions, and building innovative cultures.
 
