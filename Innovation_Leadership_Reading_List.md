@@ -94,6 +94,9 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Creating Accessible Materials** — Visual contrast, closed captions, alt text  
 - **STEAM + Arts Integration: Insights and Practical Application** — Jacqueline Cofield Ed.D, I am also one of the contributors  
 - **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg, Mark Somerville, and Catherine Whitney
+- **Empathy mapping** — A design thinking tool that supports better communication, stakeholder alignment, and user understanding.
+- **Tuckman’s Stages of Group Development** — Forming, Storming, Norming, Performing, and Adjourning — helps navigate team dynamics over time.
+- **Maslow’s Hierarchy of Needs** — Helps leaders understand individual motivations and create conditions for high performance.
 
 
 💡 *Note:* Understanding **risk attitudes**—how individuals and organizations perceive and respond to uncertainty—is essential for managing cross-functional initiatives, making investment decisions, and building innovative cultures.
