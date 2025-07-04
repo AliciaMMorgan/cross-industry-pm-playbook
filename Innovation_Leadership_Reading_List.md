@@ -108,7 +108,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Don’t Let Metrics Undermine Your Business** — Michael Harris and Bill Taylor, *Harvard Business Review*  
 - **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.  
 - **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach  
-- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/)
+- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/alicia-morgan/)
 
 ---
 ## 📖 Magazines
