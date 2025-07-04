@@ -102,7 +102,12 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Entrepreneur**
 - **Inc.**
 - **Success**
-- **Local or regional business journals (e.g., *Dallas Business
+- **Local or regional business journals (e.g., *Dallas Business** 
+
+---
+
+
+
 
 ## 📊 Research and Data Sources
 - **Pew Research Center**
