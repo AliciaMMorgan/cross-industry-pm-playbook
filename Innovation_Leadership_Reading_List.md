@@ -129,7 +129,9 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **IBM SkillsBuild** — Free workforce upskilling  
 - **DataCamp** — Python, analytics, data storytelling  
 - **FutureLearn** — Innovation, tech, inclusion  
-- **Khan Academy** — Stats, finance, reasoning  
+- **Khan Academy** — Stats, finance, reasoning
+
+  > _This is a representative list, not a comprehensive one. Explore platforms based on your industry, learning preferences, accessibility needs, and long-term goals._
 
 ---
 
