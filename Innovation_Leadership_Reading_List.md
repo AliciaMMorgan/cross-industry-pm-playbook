@@ -93,7 +93,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **The Growth Mindset** — Carol Dweck  
 - **Creating Accessible Materials** — Visual contrast, closed captions, alt text  
 - **STEAM + Arts Integration: Insights and Practical Application** — Jacqueline Cofield Ed.D, I am also one of the contributors  
-- **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg & Mark Somerville > 
+- **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg, Mark Somerville, and Catherine Whitney
 
 
 💡 *Note:* Understanding **risk attitudes**—how individuals and organizations perceive and respond to uncertainty—is essential for managing cross-functional initiatives, making investment decisions, and building innovative cultures.
