@@ -24,7 +24,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Moonshot: Game-Changing Strategies to Build Billion-Dollar Businesses** — Luis Perez-Breva  
 - **HBR Guide: Setting Your Strategy** — Harvard Business Review  
 - **Business Chemistry: Practical Science for Work and Life** — Deloitte Research; 4 Types: Drivers, Guardians, Integrators, and Pioneers  
-- **Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA,
+- **The Knowledge Café:Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA,
 - **The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
 - **The Four Factors of Trust:How Organizations Can Earn Lifelong Loyalty** — Ashley Reichheld and Amelia Dunlop  
 - **How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** — David Brooks   
