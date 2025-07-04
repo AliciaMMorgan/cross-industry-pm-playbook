@@ -142,6 +142,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **SWE** – Society of Women Engineers  
 - **PMI** – Project Management Institute  
 - **IIL** – International Institute for Learning
+- **Regional and Local Chambers of Commerce** — Great for networking, learning about regional economic development, attending leadership events, and staying connected with business and policy influencers in your area.
 
 
   > _This is not a comprehensive list of professional organizations. Consider exploring industry-specific, regional, and identity-based associations that align with your goals and values._
