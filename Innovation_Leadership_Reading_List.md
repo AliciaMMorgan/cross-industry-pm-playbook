@@ -15,6 +15,7 @@ These selections support mindset shifts in building trust, selling ideas, unders
 - **Rules of Engagement: Making Connections Last** — Dr. Froswa’ Booker-Drew
 - **Front Page Wisdom: Navigating Leadership, Pressures, and Barriers as a Woman of Color** — Dr. Froswa’ Booker-Drew
 - **Empowering Charity: A Narrative of Philanthropy** — Dr. Froswa’ Booker-Drew
+- **The Alchemist** : Paulo Coelho
 - **The Culture Map: Breaking Through the Invisible Boundaries of Global Business** — Erin Meyer
 - **The Seven Faces of Philanthropy: A New Approach to Cultivating Donors** — Russ Alan Prince and Karen Maru File
 - **Innovation Capital: How to Compete and Win Like the World’s Most Innovative Leaders** — Jeff Dyer, Nathan Furr, Curtis Lefrandt
