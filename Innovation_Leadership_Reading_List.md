@@ -139,7 +139,10 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **SHPE** – Society of Hispanic Professional Engineers  
 - **SWE** – Society of Women Engineers  
 - **PMI** – Project Management Institute  
-- **IIL** – International Institute for Learning  
+- **IIL** – International Institute for Learning
+
+  > _This is not a comprehensive list of professional organizations. Consider exploring industry-specific, regional, and identity-based associations that align with your goals and values._
+
 
 ---
 
