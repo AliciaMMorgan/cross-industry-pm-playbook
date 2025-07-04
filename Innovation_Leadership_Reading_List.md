@@ -76,7 +76,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **70‑20‑10 Rule (of Innovation)**- used strategically as a guide for innovation resource allocation
 - **Business Acumen** — Critical business knowledge and decision-making skills  
 - **Power Skills Development** — Growth in leadership and interpersonal effectiveness  
-- **The Growth Mindset** — Carol Dweck  
+- **The Growth Mindset** — Carol Dweck
+- **Social network theory** - Strong ties vs. weak ties—understanding how broad, diverse connections enhance opportunity flow and innovation reach.
 - **Talking to the Machine: Prompt Engineering Essentials for Project Professionals** — PMI Report  
 - **PMI Reports** — Industry research and trend analysis by Project Management Institute  
 - **A Whole New Engineer: The Coming Revolution in Engineering Education**
