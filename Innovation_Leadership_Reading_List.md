@@ -144,9 +144,9 @@ This section is designed to help professionals grow their business acumen, commu
 - Inclusive design and accessibility ensure everyone—including people with disabilities or diverse learning needs—can fully engage with content and tools. This includes thoughtful choices in typeface, color contrast, alt text, clear language, and layout to support screen readers and other assistive technologies. 
 - Understanding varied learning styles—visual, auditory, reading/writing, and kinesthetic—improves communication and knowledge transfer.  
 - Bloom’s Taxonomy provides a structured approach to learning objectives and reflective leadership. ##### Learning Styles and Reflective Practice
-- **Generational Digital Natives** - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns.##### Learning Styles and Reflective Practice
+- Generational Digital Natives - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns.##### Learning Styles and Reflective Practice
 
-- **Generational Digital Natives** - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns. They often favor direct, impact-driven messaging and diverse communication modes that may differ from previous generations. Embracing these styles while fostering a shared understanding across communication preferences can enhance collaboration and mutual respect.
+- Generational Digital Natives - Recognizing that Gen Z and other digital-native generations engage and learn primarily through digital and social media platforms, shaping distinct cognitive and social patterns. They often favor direct, impact-driven messaging and diverse communication modes that may differ from previous generations. Embracing these styles while fostering a shared understanding across communication preferences can enhance collaboration and mutual respect.
 
 
 ---
