@@ -20,7 +20,7 @@ These selections support mindset shifts in building trust, selling ideas, unders
 - **Innovation Capital: How to Compete and Win Like the World’s Most Innovative Leaders** — Jeff Dyer, Nathan Furr, Curtis Lefrandt  
 - **The Innovator’s DNA: Mastering the Five Skills of Disruptive Innovators** — Jeff Dyer, Hal Gregersen, Clayton M. Christensen  
 - **Shut the Hell Up and Sell: Selling Without Selling Out** — Ronnell Richards  
-- **The Knowledge Café: Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho
+- **The Knowledge Café: Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA, PMP
 - **The Go-Giver: A Little Story About a Powerful Business Idea** — Bob Burg and John David Mann  
 - **The Go-Giver Influencer** — Bob Burg and John David Mann  
 - **Relentless: From Good to Great to Unstoppable** — Tim S. Grover with Shari Wenk  
