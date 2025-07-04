@@ -215,7 +215,7 @@ This is not just a reading list—it's a living map of insights that have shaped
 
 I share it as a resource, an invitation, and a commitment to inclusive, empowered leadership.
 
-— Alicia M. Morgan
+— Alicia M Morgan
 
 ---
 
