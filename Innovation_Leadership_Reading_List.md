@@ -88,7 +88,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Social Network Theory** — Strong vs. weak ties in innovation flow  
 - **The Growth Mindset** — Carol Dweck  
 - **Creating Accessible Materials** — Visual contrast, closed captions, alt text  
-- **STEAM + Arts Integration: Insights and Practical Application** — Ed.D. Perspectives  
+- **STEAM + Arts Integration: Insights and Practical Application** — Jacqueline Cofield Ed.D, I am also one of the contributors  
 - **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg & Mark Somerville  
 
 ---
