@@ -52,7 +52,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 ## 🎨 Creativity & Personal Growth
 
 - **The Artist’s Way: A Spiritual Path to Higher Creativity** — Julia Cameron  
-- **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. SiriSat Nam  
+- **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. Siri Sat Nam  
 - **You Learn by Living** — Eleanor Roosevelt  
 - **Becoming** — Michelle Obama  
 - **Hidden Figures** — Margot Lee Shetterly  
