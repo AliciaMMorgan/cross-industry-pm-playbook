@@ -126,7 +126,7 @@ This section is designed to help professionals grow their business acumen, commu
 - **Front-End vs. Back-End Business and Project Management** — Understanding the distinction between user-facing activities (front-end) and infrastructure, data processing, and system-level work (back-end) to better align teams, stakeholders, and strategic objectives.
 - **Social Network Theory** — Strong vs. weak ties in innovation flow.
 - **Creating Accessible Materials** — Visual contrast, closed captions, alt text.
-- **STEAM + Arts Integration: Insights and Practical Application** — A practitioner-led anthology featuring 12 contributors—educators, engineers, teaching artists, and cultural programmers—who share how STEAM+ arts integration enriches learning environments. - Dr. Jacqueline Cofield, (**I am also one of the contributors**)
+- **STEAM + Arts Integration: Insights and Practical Application** — A practitioner-led anthology featuring 12 contributors—educators, engineers, teaching artists, and cultural programmers—who share how STEAM+ arts integration enriches learning environments. - Dr. Jacqueline Cofield, (*I am also one of the contributors**)
 - **A Whole New Engineer: The Coming Revolution in Engineering Education** — David E. Goldberg, Mark Somerville, and Catherine Whitney.
 
 ### 🤖 Emerging Tech, Risk & Responsible AI
