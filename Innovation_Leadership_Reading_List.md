@@ -141,8 +141,6 @@ This section is designed to help professionals grow their business acumen, commu
 - Bloom’s Taxonomy provides a structured approach to learning objectives and reflective leadership.
 
 
-
-
 ---
 
 ## 📰 Key Articles & Reports
@@ -216,7 +214,7 @@ Ongoing publications offering thought leadership, industry trends, creative insi
 
 ---
 
-## 🧠 Professional Organizations
+## 🌐 Professional Organizations
 
 - **NSBE** – National Society of Black Engineers
 - **SHPE** – Society of Hispanic Professional Engineers
