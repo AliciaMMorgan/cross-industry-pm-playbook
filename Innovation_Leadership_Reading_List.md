@@ -211,8 +211,7 @@ It reminds us:
 ---
 
 **About This List**  
-This is not just a reading list—it's a living map of insights that have shaped my evolution from engineer to innovation leader.  
-It was built to support others navigating technical complexity, cross-functional influence, creative growth, and systems-level change—at any stage of their career.  
+This is not just a reading list—it's a living map of insights that have shaped my evolution from engineer to innovation leader. It was built to support others navigating technical complexity, cross-functional influence, creative growth, and systems-level change—at any stage of their career.  
 I share it as a resource, an invitation, and a commitment to inclusive, empowered leadership.
 
 — Alicia M. Morgan
