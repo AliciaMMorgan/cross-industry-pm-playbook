@@ -102,6 +102,14 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Entrepreneur**
 - **Inc.**
 - **Success**
+
+## 🧠 Professional Organizations
+- **NSBE(National Society of Black Engineers)**
+- **SHPE(Society of Hispanic Engineers)**
+- **SWE(Society of Women Engineers)**
+- **International Institute for Learning (IIL)**
+
+
   
 
 ---
