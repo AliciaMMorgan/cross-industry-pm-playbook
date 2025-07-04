@@ -71,7 +71,9 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **The Element: How Finding Your Passion Changes Everything** — Sir Ken Robinson and Lou Aronica  
 - **The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage** — Daymond John with Daniel Paisner  
 - **Contagious: Why Things Catch On** — Jonah Berger  
-- **Be So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love** — Cal Newport  
+- **Be So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love** — Cal Newport 
+- **The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness** — Morgan Housel  
+- **We Should All Be Millionaires: A Woman’s Guide to Earning More, Building Wealth, and Gaining Economic Power** — Rachel Rodgers
 
 ---
 
