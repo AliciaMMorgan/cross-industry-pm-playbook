@@ -107,8 +107,11 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **NSBE**(National Society of Black Engineers)
 - **SHPE**(Society of Hispanic Engineers)
 - **SWE**(Society of Women Engineers)
-- **IIL**(International Institute for Learning
+- **IIL**(International Institute for Learning)
 - **PMI**(Project Management Institute)
+
+**This is a select list of affiliations; additional organizations not listed.**
+
 
 
 
