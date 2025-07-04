@@ -119,6 +119,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **CB Insights**
 - **MIT Initiative on the Digital Economy (IDE)**
 - **Local or regional research centers, university institutes, and workforce boards**
+- **McKinsey Global Institute**
 
 ---
 
