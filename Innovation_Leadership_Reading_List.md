@@ -84,7 +84,8 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Cost Ratios** — Project and operational analysis
 - **Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine** — Mike Michalowicz  
 - **Power BI, Tableau, Dashboards** — Communicating value with data  
-- **Data Storytelling** — Narrative framing of insights  
+- **Data Storytelling** — Narrative framing of insights
+- **Data Lakes vs. Data Warehouses** — Understand how modern organizations store, manage, and retrieve unstructured and structured data at scale; foundational for scalable analytics, AI systems, and business intelligence.
 - **Leading and Lagging Indicators** — Performance metrics  
 - **70-20-10 Rule (of Innovation)** — Balancing core, adjacent, and transformative work  
 - **Business Acumen** — Budgeting, tradeoffs, revenue models  
