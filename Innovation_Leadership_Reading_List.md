@@ -3,7 +3,7 @@
 
 Welcome to a living reading list curated to reflect the evolution from engineer and individual contributor to cross-industry innovation leader. These resources span leadership, influence, innovation capital, strategic communication, organizational dynamics, social capital, philanthropy, and personal development.  
 
-They reflect 15+ years of growth — from engineering execution to leading innovation in traditional and formal education settings and beyond.
+They reflect 15+ years of growth — from engineering execution to leading innovation in traditional, formal, and informal education settings and beyond.
 
 > 🛠️ This document is actively evolving. Treat this version as current, but updates are ongoing. Suggestions welcome via GitHub Issues or Discussions.
 
