@@ -39,7 +39,7 @@ These selections support mindset shifts in building trust, selling ideas, unders
 - **The 12 Week Year: Get More Done in 12 Weeks Than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
 - **The Four Factors of Trust: How Organizations Can Earn Lifelong Loyalty** — Ashley Reichheld and Amelia Dunlop  
 - **HBR Guide: Setting Your Strategy** — Harvard Business Review  
-- **The Customer-Funded Business** — John Mullins  
+- **The Customer-Funded Business: Start, Finance, or Grow Your Company with Your Customers' Cash** — John W. Mullins
 
 ---
 
