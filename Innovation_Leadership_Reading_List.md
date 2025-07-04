@@ -122,6 +122,8 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Local or regional research centers, university institutes, and workforce boards**
 - **McKinsey Global Institute**
 - **Local Libraries** — Rich access to business databases, research tools, and historical archives—often free with a library card.
+- **Technology rankings and lists** (e.g., U.S. News Best Tech Jobs, Forbes Tech Rankings, or CB Insights Top AI Companies)
+
 
 ---
 
