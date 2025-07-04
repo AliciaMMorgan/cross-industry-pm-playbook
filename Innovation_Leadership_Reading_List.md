@@ -103,6 +103,7 @@ This section is designed to help professionals grow their business acumen, commu
 - **Cost Ratios** — Project and operational analysis.
 - **Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine** — Mike Michalowicz
 - **Business Acumen** — Budgeting, tradeoffs, revenue models.
+- **Marketing Strategy and Market Understanding** - Fluency in marketing strategy supports innovation leadership by helping you understand customer needs, industry trends, competitive positioning, and go-to-market strategies. This includes market research, segmentation, product-market fit, and customer feedback loops — all of which tie directly into business modeling, budgeting, and long-term sustainability.
 
 ### 🔄 Agile, Process Improvement & Lean Operations
 
