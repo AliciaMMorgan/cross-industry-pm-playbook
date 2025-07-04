@@ -206,7 +206,7 @@ It reminds us:
 
 ---
 
-> _Use this guide to mentor yourself — and others — across disciplines, industries, and challenges. It is living, growing, and a reflection of continuous 
+> Use this guide to mentor yourself — and others — across disciplines, industries, and challenges. It is living, growing, and a reflection of continuous 
 
 ---
 
