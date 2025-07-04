@@ -101,9 +101,37 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Don’t Let Metrics Undermine Your Business** — Michael Harris and Bill Taylor, *Harvard Business Review*  
 - **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.  
 - **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach  
-- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/alicia-morgan/)  
+- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/Absolutely — those are excellent additions. Including local city-based magazines and health/wellness-focused magazines adds important depth, especially for a well-rounded view of leadership and innovation that honors mind, body, community, and place.
 
 ---
+## 📖 Magazines
+
+Ongoing publications offering thought leadership, industry trends, creative insights, and social impact commentary.
+
+- **Fast Company**
+- **Harvard Business Review (HBR)**
+- **Black Enterprise Magazine**
+- **DiversityInc Magazine**
+- **Forbes**
+- **The Economist**
+- **Fortune**
+- **Entrepreneur**
+- **Inc.**
+- **Success**
+- **Bloomberg Businessweek**
+- **Psychology Today**
+- **Wired**
+- **Stanford Social Innovation Review**
+- **99U by Adobe**
+- **Local or regional business journals** (e.g., *Dallas Business Journal*, *Crain’s Business*)
+- **Local city-based lifestyle or innovation magazines** (e.g., *D Magazine* in Dallas, *Chicago* magazine, *Atlanta* magazine)
+- **Health and wellness magazines** (e.g., *Mindful*, *Experience Life*, *Health*, *Yoga Journal*) for sustaining mind–body–spirit alignment on your leadership path
+
+> _This is a representative list, not an exhaustive one. Choose magazines that speak to your region, mission, or holistic leadership goals._
+
+---
+
+
 
 ## 📊 Research & Data Sources
 
