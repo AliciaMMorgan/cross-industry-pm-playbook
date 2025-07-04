@@ -72,6 +72,9 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Book value**, **depreciation schedules**, and **internal rate of return (IRR)** are core financial concepts tied to project investments. Many organizations set **IRR thresholds between 12%–25%**, especially for innovation or capital-intensive initiatives.
 - **Earned Value Management** — Project management technique integrating scope, time, and cost data  
 - **Cost Ratios Importance** — Key financial metrics for project analysis  
+- **Dashboards (e.g., Power BI, Tableau)** – Dynamic visualization tools for tracking KPIs, sharing insights, and aligning teams  
+- **Heat maps, bar charts, and line graphs** – Help tell a compelling story behind the numbers in cross-functional contexts  
+- **Data storytelling** – Translating raw data into actionable insights through charts, annotations, and narrative framing
 - **Leading and Lagging Indicators** — Understanding performance metrics for forecasting and tracking
 - **70‑20‑10 Rule (of Innovation)**- used strategically as a guide for innovation resource allocation
 - **Business Acumen** — Critical business knowledge and decision-making skills  
