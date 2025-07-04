@@ -85,6 +85,8 @@ This section is designed to help professionals grow their business acumen, commu
 
 - **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights — and when to bring each forward for maximum influence.
 - **Executive Communication: Brevity, Clarity & Structure** — Crafting proposals, summaries, and strategic communications for senior leaders requires precision and focus. Practice expressing your core idea in 500 words, then 250, then a single sentence. Use readability tools (e.g., Flesch Reading Ease) and transition words to improve flow and impact.
+- **Never Split the Difference: Negotiating As If Your Life Depended On It** – Chris Voss
+  Former FBI hostage negotiator shares tactical negotiation techniques that apply to business and everyday life. Essential for mastering influence and strategic conversations that lead to better outcomes.
 - **Business Pitching & Proposals** — Learn how to frame value propositions for diverse audiences. Differentiate between technical briefs, business cases, and executive summaries. Tailor your depth, structure, and tone based on stakeholder needs, whether for funding, partnerships, or strategic alignment.
 - **Empathy Mapping** — A design thinking tool that supports better communication, stakeholder alignment, and user understanding.
 - **Tuckman’s Stages of Group Development** — Forming, Storming, Norming, Performing, and Adjourning — helps navigate team dynamics over time.
