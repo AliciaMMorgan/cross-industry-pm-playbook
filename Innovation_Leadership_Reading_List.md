@@ -206,6 +206,19 @@ It reminds us:
 
 ---
 
-> _Use this guide to mentor yourself — and others — across disciplines, industries, and challenges. It is living, growing, and a reflection of continuous evolution._
+> _Use this guide to mentor yourself — and others — across disciplines, industries, and challenges. It is living, growing, and a reflection of continuous 
+
+---
+
+**About This List**  
+This is not just a reading list—it's a living map of insights that have shaped my evolution from engineer to innovation leader.  
+It was built to support others navigating technical complexity, cross-functional influence, creative growth, and systems-level change—at any stage of their career.  
+I share it as a resource, an invitation, and a commitment to inclusive, empowered leadership.
+
+— Alicia M. Morgan
+
+---
+
+
 
 
