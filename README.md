@@ -243,6 +243,7 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 
 📘 **Reading List**
+
   [Innovation and Leadership Reading List](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md)
 
 ⸻
