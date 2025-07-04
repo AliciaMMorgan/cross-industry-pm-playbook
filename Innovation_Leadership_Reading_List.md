@@ -131,7 +131,8 @@ This section is designed to help professionals grow their business acumen, commu
 
 💡 *Note:* Understanding **risk attitudes** — how individuals and organizations perceive and respond to uncertainty — is essential for managing cross-functional initiatives, making investment decisions, and building innovative culture. 
 
-### Learning Styles & Reflective Practice
+
+### 🧠 Learning Styles & Reflective Practice
 
 > _Recognizing diverse user accessibility needs and learning preferences strengthens innovation leadership. Reflective frameworks like Bloom’s Taxonomy support mentoring and continuous growth._
 
