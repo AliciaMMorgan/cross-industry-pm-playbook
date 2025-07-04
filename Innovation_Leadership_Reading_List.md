@@ -69,7 +69,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **The Path: Creating Your Mission Statement for Work and for Life** — Laurie Beth Jones  
 - **Adversaries into Allies: How to Work with People You Don’t Agree with or Like or Trust** — Bob Burg  
 - **The Element: How Finding Your Passion Changes Everything** — Sir Ken Robinson and Lou Aronica  
-- **The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advanta** — Daymond John with Daniel Paisner  
+- **The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage** — Daymond John with Daniel Paisner  
 - **Contagious: Why Things Catch On** — Jonah Berger  
 - **Be So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love** — Cal Newport  
 
