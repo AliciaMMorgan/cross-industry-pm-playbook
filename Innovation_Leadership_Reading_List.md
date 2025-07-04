@@ -81,7 +81,9 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 - **Engineering Economics** — Core concepts: book value, depreciation, IRR  
 - **Earned Value Management** — Scope, time, and cost integration  
-- **Cost Ratios** — Project and operational analysis  
+- **Cost Ratios** — Project and operational analysis
+- **Profit First: Transform Your Business from a Cash-Eating Monster to a Money-Making Machine** — Mike Michalowicz  
+  Practical strategies for structuring your finances to prioritize profit, especially relevant for entrepreneurs and innovation leaders managing cost, risk, and return.
 - **Power BI, Tableau, Dashboards** — Communicating value with data  
 - **Data Storytelling** — Narrative framing of insights  
 - **Leading and Lagging Indicators** — Performance metrics  
