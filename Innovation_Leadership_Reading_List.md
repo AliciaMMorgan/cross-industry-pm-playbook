@@ -108,7 +108,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Don’t Let Metrics Undermine Your Business** — Michael Harris and Bill Taylor, *Harvard Business Review*  
 - **Put Purpose at the Core of Your Strategy** — Thomas Melknight et al.  
 - **The Dangers of Categorical Thinking** — Bart DeLong and Philip Fernbach  
-- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/Absolutely — those are excellent additions. Including local city-based magazines and health/wellness-focused magazines adds important depth, especially for a well-rounded view of leadership and innovation that honors mind, body, community, and place.
+- **PM World Journal** — [Explore contributions](https://pmworldlibrary.net/authors/)
 
 ---
 ## 📖 Magazines
