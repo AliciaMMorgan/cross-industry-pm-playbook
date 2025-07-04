@@ -26,7 +26,7 @@ This list complements the Cross-Industry PM Playbook and is designed to build yo
 - **Business Chemistry: Practical Science for Work and Life** — Deloitte Research; 4 Types: Drivers, Guardians, Integrators, and Pioneers  
 - **Create an Environment for Successful Knowledge Management** — Benjamin C. Anyacho, MBA,
 - **The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months** — Brian P. Moran, Michael Lennington  
-- **The Four Factors of Trust** — Stephen M.R. Covey and Rebecca R. Merrill  
+- **The Four Factors of Trust:How Organizations Can Earn Lifelong Loyalty** — Stephen M.R. Covey and Rebecca R. Merrill  
 - **How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen** — David Brooks   
 - **The Effective Executive** — Peter F. Drucker  
 - **The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever** - Michael Bungay
