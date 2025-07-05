@@ -35,10 +35,11 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
 - 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and *WE23
        conference* Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win* and a 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
 - 📘 **PM World Journal**: Featured for global project and program management insights
-- 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and featured contributor on website blog.  
+- 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and
+     [*featured contributor on website blog*](https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
-- 🌐 **National Informal STEM Education (NISE) Network**: Featured article for innovation in science and education engagement
-- 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. My shared expertise includes insights on *Leading Innovation in Traditional Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
+- 🌐 **National Informal STEM Education (NISE) Network**: [*Featured article*](https://www.nisenet.org/blog/post/partner-highlight-frontiers-flight-museum-dallas-texas-celebrates-50th-anniversary-moon) for innovation in science and education engagement
+- 🌐 **Project Bites Contributor**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. [My shared expertise includes insights](https://projectbites.com/browse/all-bites/?_bite_speakers=5171) on *Leading Innovation in Traditional Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
 
 These experiences underscore my ability to translate structure into strategy and scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity, without losing business value along the way.
 
