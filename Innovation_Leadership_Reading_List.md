@@ -250,6 +250,7 @@ Ongoing publications offering thought leadership, industry trends, creative insi
 
 ## 🎓 Ongoing Learning & Skills Development
 
+- **MasterClass** – A subscription-based platform offering high-quality video lessons taught by world-renowned leaders, creatives, and professionals. Topics range from leadership, negotiation, and business strategy to storytelling, design, and culinary arts. Excellent for cross-disciplinary learning, mindset expansion, and learning how masters across fields approach craft, communication, and innovation.
 - **Coursera** — Certificates from Google, Wharton, etc.
 - **edX** — MIT, Harvard, and global universities
 - **LinkedIn Learning** — PM, data, influence
