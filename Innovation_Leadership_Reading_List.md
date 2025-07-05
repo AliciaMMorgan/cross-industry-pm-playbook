@@ -87,6 +87,18 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 This section is designed to help professionals grow their business acumen, communicate across roles, manage resources effectively, and lead projects with clarity. It blends foundational knowledge with strategic thinking and emergent technologies — supporting transitions from execution to influence.
 
+## 🪞✨ Executive Self-Awareness, Brand Positioning, and Feedback Loops: 360 Reach Assessment
+
+The **360 Reach Assessment** is a powerful multi-source feedback tool that gathers insights from colleagues, clients, and collaborators to provide a comprehensive view of how you show up as a leader and professional. It consolidates diverse feedback into thematic insights that inform your personal brand, leadership style, and growth opportunities.
+
+This assessment enables alignment between your self-perception and others’ perceptions—critical for authentic influence and building credibility. By increasing self-awareness, it supports agile decision-making and adaptation across varied professional environments.
+
+Highly recommended as part of a self-managed leadership development roadmap and for integration into your professional portfolio, the 360 Reach Assessment complements other tools designed to deepen data-informed awareness, especially in industries where brand and impact are paramount.
+
+See also **Business Chemistry** in this list, which provides insight into how you perceive yourself in business contexts, whereas the 360 Reach Assessment reflects how others perceive you. Understanding the gap between these perspectives offers valuable guidance on aligning your leadership presence and communication style effectively.
+
+**Note:** Telling your leadership style with awareness of context—formal versus informal environments—and its impact across your entire career is a key outcome of this feedback, informing how you adapt and thrive in diverse organizational settings.
+
 ### 🧭 Strategic Communication & Executive Fluency
 
 - **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights, and when to bring each forward for maximum influence
