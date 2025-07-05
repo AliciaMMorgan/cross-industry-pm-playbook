@@ -4,7 +4,7 @@ Welcome to a living reading list curated to reflect the evolution from engineer 
 
 They reflect 15+ years of growth — from engineering execution to leading innovation in traditional, formal, and informal education settings and beyond.
 
-> 🔍 Cross-industry PM requires fluency in both **explicit knowledge** (formal methods, strategic frameworks) and **tacit knowledge** — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both.
+> 🔍 A Cross-industry PM requires fluency in both **explicit knowledge** (formal methods, strategic frameworks) and **tacit knowledge** — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both.
 
 > 🛠️ This document is actively evolving. Treat this version as current, but updates are ongoing. Suggestions welcome via GitHub Issues or Discussions.
 
