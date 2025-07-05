@@ -53,7 +53,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 ## 🎨 Creativity & Personal Growth
 
-- **100 Days of Believing Bigger: Devotional Journal** — Marshawn Evans Daniels
+- **Believe Bigger: A 100-Day Devotional to Build Your Faith and Ignite Your Calling** — Marshawn Evans Daniels
 - **The Artist’s Way: A Spiritual Path to Higher Creativity** — Julia Cameron
 - **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. Siri Sat Nam
 - **You Learn by Living** — Eleanor Roosevelt
