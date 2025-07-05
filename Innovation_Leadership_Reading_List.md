@@ -312,8 +312,12 @@ This is not just a reading list—it's a living map of insights that have shaped
 
 ---
 
+**Attribution**
 
+ Suggested attribution:  
+  _"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"_
 
+---
 
 
 
