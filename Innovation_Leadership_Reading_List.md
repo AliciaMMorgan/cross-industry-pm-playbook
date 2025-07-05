@@ -1,6 +1,6 @@
 # 📚 Cross-Industry Innovation & Leadership Reading List
 
-Welcome to a living reading list curated to reflect the evolution from engineer and individual contributor to cross-industry innovation leader. These resources span leadership, influence, innovation capital, strategic communication, organizational dynamics, social capital, philanthropy, and personal development.
+Welcome to a living reading and personal development list curated to reflect the evolution from engineer and individual contributor to cross-industry innovation leader. These resources span leadership, influence, innovation capital, strategic communication, organizational dynamics, social capital, philanthropy, and personal development.
 
 They reflect 15+ years of growth — from engineering execution to leading innovation in traditional, formal, and informal education settings and beyond.
 
