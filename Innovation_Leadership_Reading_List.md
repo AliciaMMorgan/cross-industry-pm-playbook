@@ -91,10 +91,8 @@ This section is designed to help professionals grow their business acumen, commu
     - Instead of “at-risk youth” → “youth navigating systemic barriers”
     - Instead of “high-need communities” → “communities with underleveraged strengths”
   
-These shifts matter. They reshape how funders, partners, and teams perceive value. Empowered framing helps align your vision with long-term impact: to design solutions that make themselves obsolete by transferring tools, confidence, and connection.
-
-  Use language that reinforces dignity, agency, and possibility — especially in pitch decks, proposals, community outreach, and internal alignment.
-
+    These shifts matter. They reshape how funders, partners, and teams perceive value. Empowered framing helps align your vision with long-term impact: to design solutions that make themselves obsolete by transferring tools, confidence, and connection.
+    Use language that reinforces dignity, agency, and possibility — especially in pitch decks, proposals, community outreach, and internal alignment.
   *See also: Data Storytelling and Visualization > Narrative Framing of Insights*
 - **Executive Communication: Brevity, Clarity & Structure** — Crafting proposals, summaries, and strategic communications for senior leaders requires precision and focus. Practice expressing your core idea in 500 words, then 250, then a single sentence. Use readability tools (e.g., Flesch Reading Ease) and transition words to improve flow and impact.
 - **Live Feedback, Off-the-Cuff Communication, and Inclusive Presentation Tools** - Leadership communication often includes unscripted moments — Q&A sessions, stakeholder feedback, team debates — that require clarity, presence, and emotional intelligence under pressure. Practicing through platforms like **Toastmasters (Table Topics)** can strengthen these real-time skills. Digital tools such as **Microsoft Presenter Coach**, **Poised**, or **Grammarly’s Tone Detector** offer feedback on pacing, filler words, clarity, and inclusive language. These resources help leaders refine their speaking presence across contexts, generations, and communication styles.
