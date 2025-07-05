@@ -174,6 +174,7 @@ This section is designed to help professionals grow their business acumen, commu
 
 - **AI Agents & Orchestration Frameworks** — Leveraging emerging agentic stacks (e.g., LangChain, AutoGen, CrewAI) to automate data pipelines, documentation, and project workflows while keeping a human-in-the-loop for oversight.
 - **Responsible AI & Ethical Decision-Making** — Applying frameworks such as the NIST AI Risk Management Framework and IEEE’s Ethically Aligned Design to balance innovation speed with transparency, bias mitigation, privacy, and societal impact.
+- **Trust but verify: AI can speed up workflows** — But hallucinations, misinterpretation, and incorrect outputs are common. Always review numbers, claims, tone, and context. Responsible use requires human oversight. Accuracy, clarity, and nuance remain your leadership responsibility.
 
 💡 *Note:* Understanding **risk attitudes** — how individuals and organizations perceive and respond to uncertainty — is essential for managing cross-functional initiatives, making investment decisions, and building an innovative culture. 
 
