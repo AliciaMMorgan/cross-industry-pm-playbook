@@ -133,7 +133,7 @@ This section is designed to help professionals grow their business acumen, commu
 - **Power BI, Tableau, Dashboards** — Communicating value with data.
 - **Data Storytelling** — Narrative framing of insights.
 - **Data Lakes vs. Data Warehouses** — Understand how modern organizations store, manage, and retrieve unstructured and structured data at scale; foundational for scalable analytics, AI systems, and business intelligence
-- **Trust but verify* - qAI can speed up workflows — but hallucinations, misinterpretation, and incorrect outputs are common. Always review numbers, claims, tone, and context. Responsible use requires human oversight. Accuracy, clarity, and nuance remain your leadership responsibility.
+- **Trust but verify** - AI can speed up workflows — but hallucinations, misinterpretation, and incorrect outputs are common. Always review numbers, claims, tone, and context. Responsible use requires human oversight. Accuracy, clarity, and nuance remain your leadership responsibility.
 
 ### 🧩 Data Storytelling, Narrative Framing & Empowered Communication
 
