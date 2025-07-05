@@ -131,7 +131,7 @@ This section is designed to help professionals grow their business acumen, commu
 - **Data Storytelling** — Narrative framing of insights.
 - **Data Lakes vs. Data Warehouses** — Understand how modern organizations store, manage, and retrieve unstructured and structured data at scale; foundational for scalable analytics, AI systems, and business intelligence.
 
-### Data Storytelling, Narrative Framing & Empowered Communication
+### 🧩 Data Storytelling, Narrative Framing & Empowered Communication
 
 - **Data doesn’t speak for itself. People do.** How we frame insights changes everything.  
   - Instead of: “Only 40% of participants completed the program.”  
