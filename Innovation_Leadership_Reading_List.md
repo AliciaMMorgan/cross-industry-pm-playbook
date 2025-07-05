@@ -64,6 +64,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Set Boundaries, Find Peace: A Guide to Reclaiming Yourself** — Nedra Glover Tawwab
 - **Rest Is Resistance: A Manifesto** — Tricia Hersey
 - **The Secret Language of Color Cards & Guidebook** — Inna Segal
+- **The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)** - Hal Elrod
 - **Eleven Rings: The Soul of Success** — Phil Jackson
 - **Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential** — Barbara Oakley
 - **No Ceilings, No Walls: What Women Haven’t Been Told About Leadership from Career Start to the Corporate Boardroom** — Lisa Ann Edwards
