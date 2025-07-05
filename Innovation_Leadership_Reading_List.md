@@ -56,6 +56,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 - **Believe Bigger: A 100-Day Devotional to Build Your Faith and Ignite Your Calling** — Marshawn Evans Daniels
 - **The Artist’s Way: A Spiritual Path to Higher Creativity** — Julia Cameron
 - **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. Siri Sat Nam
+- **The Game of Life and How to Play It** – Florence Scovel Shinn
 - **You Learn by Living: Eleven Keys for a More Fulfilling Life** — Eleanor Roosevelt
 - **Becoming** — Michelle Obama
 - **Year of Yes: How to Dance It Out, Stand In the Sun and Be Your Own Person** — Shonda Rhimes
