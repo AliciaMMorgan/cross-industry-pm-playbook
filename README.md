@@ -34,7 +34,7 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
 - 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and *WE23
        conference* Inspirational Insight Sessions Speaker on the topic of *Strategic Leadership: Empowering Teams to Win* and a 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
-- 📘 **PM World Journal**: Featured for global project and program management insights
+- 📘 **PM World Journal**: [Featured](https://pmworldlibrary.net/authors/alicia-morgan/) for global project and program management insights
 - 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and
      [*featured contributor on website blog*](https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)  
 - 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
