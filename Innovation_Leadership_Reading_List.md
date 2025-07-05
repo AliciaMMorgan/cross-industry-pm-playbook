@@ -53,6 +53,7 @@ Tailoring communication to your audience — whether pitching ideas, managing up
 
 ## 🎨 Creativity & Personal Growth
 
+- **Believe Bigger: Discover the Path to Your Life Purpose** — Marshawn Evans Daniels
 - **The Artist’s Way: A Spiritual Path to Higher Creativity** — Julia Cameron
 - **The Pocket Guru: Guidance and Mantras for Spiritual Awakening and Emotional Wisdom** — Dr. Siri Sat Nam
 - **You Learn by Living** — Eleanor Roosevelt
