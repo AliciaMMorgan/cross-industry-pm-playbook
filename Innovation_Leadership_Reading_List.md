@@ -85,7 +85,9 @@ This section is designed to help professionals grow their business acumen, commu
 
 ### 🧭 Strategic Communication & Executive Fluency
 
-- **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights, and when to bring each forward for maximum influence
+- **Strategic Communication Across Leadership Levels** — Developing the ability to communicate clearly across technical and non-technical audiences, build trust, and adapt messaging for executives, peers, and teams. This includes understanding the role of both quantitative (data, metrics) and qualitative (narratives, user stories) insights, and when to bring each forward for maximum influenc- **🫶 Creating Environments of Psychological Safety for Innovation and Inclusion**  
+- **Psychological safety** - Defined by Dr. Amy Edmondson’s research—is the belief that individuals can speak up, ask questions, raise concerns, or admit mistakes without fear of embarrassment or retribution. It is foundational to inclusion, innovation, and team learning. Leaders who cultivate psychological safety foster cultures of experimentation, trust, and authentic communication. These environments improve strategic decision-making, innovation capacity, and cross-functional collaboration.  
+  _Cross-reference: see **Learning Styles & Reflective Practice**._
 - **On Language and Empowerment Framing**  
     Strategic communication is not just about clarity — it’s about *framing power*. In innovation, leadership, and social impact work, language can either reinforce deficit narratives or uplift empowered solutions. Consider these reframes:
     - Instead of “underskilled” populations → “under-connected to opportunity”
