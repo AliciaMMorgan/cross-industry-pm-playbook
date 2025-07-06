@@ -262,7 +262,10 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 ⸻
 
-🔄 **Work in Progress**
+🔄 **Work in Progress**- 
+
+🚧 **Google Classroom Prototype** — *Currently creating a project-based learning sandbox that translates this Playbook into an interactive course environment.*  
+  *Purpose:* give learners a safe space to practice the writing-to-execution loop, surface tacit knowledge in real time, and generate feedback that continuously improves the Playbook itself.
 
 This is just the beginning. I plan to:
 - Add additional use cases and templates
