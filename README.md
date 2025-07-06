@@ -282,7 +282,7 @@ The sandbox exists to:
 - Generate iterative feedback to **continuously improve the playbook**
 - Help participants build confidence navigating **ambiguous and evolving environments**
 
-**Inspired by insights from both real-world experience and academic conversations.**
+Inspired by insights from both real-world experience and academic conversations.
 ---
 
 ### 🔭 What’s Next
