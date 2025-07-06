@@ -73,11 +73,13 @@ As part of a commitment to reflective practice and cross-sector fluency, I compl
 
 ### 🔄 What I’m Actively Working On: Strengths in Motion: Evolving for Scaled, Cross-Industry Impact
 
-To deepen my cross-industry fluency and agility, I’ve proactively pursued tools and practices that allow for faster iteration, real-time decision-making, and inclusive execution under ambiguity. For example:
+To deepen my cross-industry fluency and agility, I’ve proactively pursued tools and practices that allow for faster iteration, real-time decision-making, and inclusive execution under ambiguity. 
 
+For example:
 - I earned an **Agile Metrics Certification** to better understand leading vs. lagging indicators and how to apply them in collaborative and complex environments.
 - I’ve integrated this mindset throughout the playbook — combining clarity, adaptability, and thought leadership for creating meaningful action across sectors.
 - I leverage AI agents and efficiency tools to enhance both strategic insights and tactical execution, driving critical success factors effectively.
+  
 ---
 
 
