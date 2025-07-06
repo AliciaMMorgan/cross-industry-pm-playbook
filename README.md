@@ -268,23 +268,13 @@ This playbook supports my next step: securing leadership roles that merge techni
 
 - Translating ambiguity into structured action plans  
 - Bridging cross-sector insights into enterprise impact  
-- Designing psychologically safe, inclusive environments for innovation  
+- Designing psychologically safe, inclusive environments for innovation 
 - Advancing tech-informed decision-making with clarity and accountability  
 
 Whether inside established institutions or fast-moving organizations, I’m committed to helping teams **move from strategy to story to execution** — building cultures where continuous learning, feedback, and empowered problem-solving thrive.
 
-This playbook will continue evolving as a **living artifact** of that work. **Work in ## 🔭 What’s Next: Working in Innovation Environments to Bridge the Gap
+This playbook will continue evolving as a **living artifact** of that work. 
 
-This playbook supports my next step: securing leadership roles that merge technical depth, strategic execution, and systems-level thinking across traditional and emerging environments. My focus is on opportunities that value:
-
-- Translating ambiguity into structured action plans  
-- Bridging cross-sector insights into enterprise impact  
-- Designing psychologically safe, inclusive environments for innovation  
-- Advancing tech-informed decision-making with clarity and accountability  
-
-Whether inside established institutions or fast-moving organizations, I’m committed to helping teams **move from strategy to story to execution** — building cultures where continuous learning, feedback, and empowered problem-solving thrive.
-
-This playbook will continue evolving as a **living artifact** of that work.
 ---
 
 ⸻
