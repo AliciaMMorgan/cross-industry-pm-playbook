@@ -2,12 +2,13 @@
 
 👋 **Welcome**
 
-This playbook is a living document inspired by my journey from traditional project management in technical environments (aerospace, defense) to innovation leadership across nonprofits, education, and enterprise organizations. It’s designed to help project managers, innovation leaders, and cross-functional teams build from structure into adaptive agility, without losing clarity or execution discipline.
+This playbook is a living document inspired by my journey from traditional project and program management (PM) in technical environments (aerospace, defense) to innovation leadership across nonprofits, education, and enterprise organizations. In this context, **PM** includes both structured project execution and strategic program leadership, roles often adjacent to product and operations management. It’s designed to help project managers, program leaders, innovation leaders, and cross-functional teams build from structure into adaptive agility, without losing clarity or execution discipline.
 
-> 🔍 A Cross-industry PM requires fluency in both **explicit knowledge** (formal methods, strategic frameworks) and **tacit knowledge** — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both.
+> 🔍 A cross-industry PM requires fluency in both **explicit knowledge** (formal methods, strategic frameworks) and **tacit knowledge** — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both.
 
 
-📇 About Me
+
+📇 **About Me**
 
 I'm Alicia M. Morgan—a 15+ years **award-winning** PMP-certified project/program strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into the nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design.
 My work has earned national and regional recognition. I’m a 2019 **Dallas Business Journal Women in Technology Awards Advocate Honoree** and have been featured in:
