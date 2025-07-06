@@ -262,37 +262,30 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 ⸻
 
-🔄 **Work in Progress**- 
+## 🔭 What’s Next: Working in Innovation Environments to Bridge the Gap
 
-🚧 **Google Classroom Prototype** ## 🧪 Project-Based Learning Sandbox (Google Classroom Prototype)
+This playbook supports my next step: securing leadership roles that merge technical depth, strategic execution, and systems-level thinking across traditional and emerging environments. My focus is on opportunities that value:
 
-As a natural extension of this playbook, I'm currently building a **project-based learning sandbox** hosted in **Google Classroom** — chosen for its accessibility, flexibility, and integration with real-time collaborative tools. This interactive prototype translates the ideas from the Cross-Industry Project Management Playbook into a guided, immersive learning experience.
+- Translating ambiguity into structured action plans  
+- Bridging cross-sector insights into enterprise impact  
+- Designing psychologically safe, inclusive environments for innovation  
+- Advancing tech-informed decision-making with clarity and accountability  
 
-> 💡 *This began as a project-based learning lab centered on strategy, story, and action. Now it evolves into a real-world practice ground for navigating ambiguity, building across industries, and modeling the Innovator’s DNA — with or without a blueprint.*
+Whether inside established institutions or fast-moving organizations, I’m committed to helping teams **move from strategy to story to execution** — building cultures where continuous learning, feedback, and empowered problem-solving thrive.
 
-This prototype reflects my commitment to making innovation education more relevant, applied, and inclusive — especially for those coming from technical, nontraditional, or interdisciplinary pathways. Drawing from my own background in both **formal and informal education environments**, I’m building a bridge between traditional disciplines like engineering and the messy, creative reality of modern leadership.
+This playbook will continue evolving as a **living artifact** of that work. **Work in ## 🔭 What’s Next: Working in Innovation Environments to Bridge the Gap
 
+This playbook supports my next step: securing leadership roles that merge technical depth, strategic execution, and systems-level thinking across traditional and emerging environments. My focus is on opportunities that value:
+
+- Translating ambiguity into structured action plans  
+- Bridging cross-sector insights into enterprise impact  
+- Designing psychologically safe, inclusive environments for innovation  
+- Advancing tech-informed decision-making with clarity and accountability  
+
+Whether inside established institutions or fast-moving organizations, I’m committed to helping teams **move from strategy to story to execution** — building cultures where continuous learning, feedback, and empowered problem-solving thrive.
+
+This playbook will continue evolving as a **living artifact** of that work.
 ---
-
-### 🎯 Purpose
-
-The sandbox exists to:
-- Provide a **safe space to practice** the full loop of strategy → writing → execution → reflection — in real time
-- Surface and capture **tacit knowledge** (what’s often left unsaid in traditional project management and leadership models)
-- Generate iterative feedback to **continuously improve the playbook**
-- Help participants build confidence navigating **ambiguous and evolving environments**
-
-Inspired by insights from both real-world experience and academic conversations.
----
-
-### 🔭 What’s Next
-
-This is just the beginning.
-
-- ✅ I plan to develop **additional use cases**, templates, and role-play scenarios
-- ✅ A **second repository** will house **innovation toolkits**, **facilitation guides**, and adaptable resources for others to remix and build their own learning labs
-- ✅ All aligned to empower people — not just to learn — but to *lead with curiosity, coherence, and strategic action*
-
 
 ⸻
 
