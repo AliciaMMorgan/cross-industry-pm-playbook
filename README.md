@@ -52,7 +52,34 @@ I created this to:
 
 ⸻
 
-🧠 **What Guides My Thinking: Business Chemistry®**
+## 🌟 360° Leadership Feedback: Brand, Strengths & Growth in Action
+
+As part of a commitment to reflective practice and cross-sector fluency, I completed a 360° Reach Assessment to better understand how my peers, colleagues, mentors, and collaborators perceive my leadership style and contributions across environments.
+
+### ✨ Top Brand Attributes
+- **Judge** – Trusted to weigh information with clarity, nuance, and discernment  
+- **Expert** – Recognized for deep knowledge across domains  
+- **Muse** – Inspires new ways of thinking and unlocks possibility  
+- **Philanthropist** – Acts from purpose, integrity, and service  
+- **Self-Starter** – Initiates action and builds systems from ambiguity
+
+### 💡 Top Leadership Competencies
+- **Expressing** – Clearly communicates vision, strategy, and next steps  
+- **Developing** – Nurtures others’ potential and learning  
+- **Solving** – Connects dots across disciplines to resolve complexity  
+- **Inspiring** – Moves others into action through values and example  
+- **Delivering** – Drives outcomes with accountability and structure
+
+### 🔄 What I’m Actively Working On: Strengths in Motion: Evolving for Scaled, Cross-Industry Impact
+
+To deepen my cross-industry fluency and agility, I’ve proactively pursued tools and practices that allow for faster iteration, real-time decision-making, and inclusive execution under ambiguity. For example:
+
+- I earned an **Agile Metrics Certification** to better understand leading vs. lagging indicators and how to apply them in collaborative and complex environments.
+- I’ve integrated this mindset throughout the playbook — combining clarity, adaptability, and thought leadership for creating meaningful action across sectors.
+---
+
+
+**🧠What Guides My Thinking: Business Chemistry®**
 
 Based on research by Deloitte, Business Chemistry is a framework designed to help teams collaborate more effectively by recognizing different working styles. The four types—Driver, Guardian, Pioneer, and Integrator—each offer distinct strengths in leadership, innovation, and execution.
 
