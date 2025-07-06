@@ -96,3 +96,14 @@ I identify primarily as a **Driver** and **Guardian**, which explains why I thri
 
 > Artifacts supporting this section (program flyers, curated agendas, feedback quotes, sample event outlines, visuals, and testimonials) will be added here.  
 > (Folder or links will be inserted when available.)
+
+> ---
+
+**Attribution**
+
+ Suggested attribution:  
+  _"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"_
+
+---
+
+
