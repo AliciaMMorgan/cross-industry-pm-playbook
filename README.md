@@ -76,10 +76,11 @@ To deepen my cross-industry fluency and agility, I’ve proactively pursued tool
 
 - I earned an **Agile Metrics Certification** to better understand leading vs. lagging indicators and how to apply them in collaborative and complex environments.
 - I’ve integrated this mindset throughout the playbook — combining clarity, adaptability, and thought leadership for creating meaningful action across sectors.
+- I leverage AI agents and efficiency tools to enhance both strategic insights and tactical execution, driving critical success factors effectively.
 ---
 
 
-**🧠What Guides My Thinking: Business Chemistry®**
+### 🧠What Guides My Thinking: Business Chemistry®
 
 Based on research by Deloitte, Business Chemistry is a framework designed to help teams collaborate more effectively by recognizing different working styles. The four types—Driver, Guardian, Pioneer, and Integrator—each offer distinct strengths in leadership, innovation, and execution.
 
@@ -101,8 +102,6 @@ According to Deloitte’s Business Chemistry®, I am a primary Driver and second
 
 #### 🛡️ Guardian Snapshot
  <img src="https://github.com/AliciaMMorgan/cross-industry-pm-playbook/raw/main/Alicia%20M%20Morgan%20Guardian%20Business%20Chemistry.png" width="600"/>
-
-⸻
 
 
 ---
