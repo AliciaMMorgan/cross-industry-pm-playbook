@@ -229,6 +229,7 @@ Ongoing publications offering thought leadership, industry trends, creative insi
 - **Fast Company**
 - **Harvard Business Review (HBR)**
 - **Black Enterprise Magazine**
+- **Technology Innovators Magazine**
 - **USA Today**
 - **DiversityInc Magazine**
 - **Education Week**
