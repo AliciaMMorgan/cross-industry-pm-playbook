@@ -264,13 +264,35 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 🔄 **Work in Progress**- 
 
-🚧 **Google Classroom Prototype** — *Currently creating a project-based learning sandbox that translates this Playbook into an interactive course environment.*  
+🚧 **Google Classroom Prototype** ## 🧪 Project-Based Learning Sandbox (Google Classroom Prototype)
 
-*Purpose:* give learners a safe space to practice the writing-to-execution loop, surface tacit knowledge in real time, and generate feedback that continuously improves the Playbook itself.
+As a natural extension of this playbook, I'm currently building a **project-based learning sandbox** hosted in **Google Classroom** — chosen for its accessibility, flexibility, and integration with real-time collaborative tools. This interactive prototype translates the ideas from the Cross-Industry Project Management Playbook into a guided, immersive learning experience.
 
-This is just the beginning. I plan to:
-- Add additional use cases and templates
-- Host a second repo for innovation toolkits and agile facilitation
+> 💡 *This began as a project-based learning lab centered on strategy, story, and action. Now it evolves into a real-world practice ground for navigating ambiguity, building across industries, and modeling the Innovator’s DNA — with or without a blueprint.*
+
+This prototype reflects my commitment to making innovation education more relevant, applied, and inclusive — especially for those coming from technical, nontraditional, or interdisciplinary pathways. Drawing from my own background in both **formal and informal education environments**, I’m building a bridge between traditional disciplines like engineering and the messy, creative reality of modern leadership.
+
+---
+
+### 🎯 Purpose
+
+The sandbox exists to:
+- Provide a **safe space to practice** the full loop of strategy → writing → execution → reflection — in real time
+- Surface and capture **tacit knowledge** (what’s often left unsaid in traditional project management and leadership models)
+- Generate iterative feedback to **continuously improve the playbook**
+- Help participants build confidence navigating **ambiguous and evolving environments**
+
+**Inspired by insights from both real-world experience and academic conversations.**
+---
+
+### 🔭 What’s Next
+
+This is just the beginning.
+
+- ✅ I plan to develop **additional use cases**, templates, and role-play scenarios
+- ✅ A **second repository** will house **innovation toolkits**, **facilitation guides**, and adaptable resources for others to remix and build their own learning labs
+- ✅ All aligned to empower people — not just to learn — but to *lead with curiosity, coherence, and strategic action*
+
 
 ⸻
 
