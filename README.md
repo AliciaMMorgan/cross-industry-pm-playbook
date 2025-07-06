@@ -180,7 +180,7 @@ In my role as Senior Researcher and Facilitator, I led user research, cross-func
 For detailed results and insights, visit:  
 👉 [Dallas College STEM Insight Project Results](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)
 
-👉 See the existing platform below that is now still an existing platform for Connecting You to Science, Technology, Engineering, and Math in North Texas [Click Here](https://www.steminsight.org/Pages/default.aspx)
+👉 See the existing educational platform for Connecting You to Science, Technology, Engineering, and Math in North Texas [Click Here](https://www.steminsight.org/Pages/default.aspx)
 
 **🚩 Other Highlights** 
 - Impacted 3 mission-aligned organizations  
