@@ -189,7 +189,7 @@ For detailed results and insights, visit:
 
 **🔗 Related Work** 
 For detailed insights, see the full case study:  
-👉 [InnovationNet Nonprofit Leadership Platform](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
+👉 [Innovation Nonprofit Leadership Platform](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
 
 ⸻
 
@@ -206,8 +206,9 @@ These resources show how cross-industry project and program management come to l
 - Facilitate Agile retrospectives, stakeholder engagement, and continuous improvement in complex environments.  
 - Speaker at PMI global and chapter events on empathetic leadership, innovation in traditional sectors, and strategic power skills.
 
-**Curatorial Leadership & Event-Curation Accomplishments**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Curatorial-Leadership.md)🎧  
-- Designing inclusive, strategic convenings across sectors — from Business Resource Groups, community events to nonprofit education and museum initiatives — as a form of stakeholder
+**Curatorial Leadership & Event-Curation Accomplishments**
+- [Curatorial Leadership Accomplishments](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Curatorial-Leadership.md)  
+- Designing inclusive, strategic convenings across sectors — from Business Resource Groups, Community events to Nonprofit education and Museum initiatives — as a form of stakeholder
   alignment, influence, and innovation capital in action.
 
 
