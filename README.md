@@ -195,7 +195,7 @@ For detailed insights, see the full case study:
 
 # Part 3: Innovation in Action (Agility in Ambiguity)
 
-Now, I work at the intersection of structure and experimentation—helping organizations balance process maturity with adaptive delivery.
+These resources show how cross-industry project and program management come to life in real-world, ambiguous, and high-stakes settings. This section is built around lived case studies, frameworks in motion, and adaptive execution across environments.
 
 **Executive Nonprofit Leadership(2017-2020)**  
 - Led strategic education and community programs serving 45,000+ students, built scalable models, and secured formal state certifications.  
@@ -205,6 +205,12 @@ Now, I work at the intersection of structure and experimentation—helping organ
 - Earned PMP certification focused on agile leadership and business value delivery.  
 - Facilitate Agile retrospectives, stakeholder engagement, and continuous improvement in complex environments.  
 - Speaker at PMI global and chapter events on empathetic leadership, innovation in traditional sectors, and strategic power skills.
+
+**Curatorial Leadership & Event-Curation Accomplishments**](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Curatorial-Leadership.md)🎧  
+- Designing inclusive, strategic convenings across sectors — from Business Resource Groups, community events to nonprofit education and museum initiatives — as a form of stakeholder
+  alignment, influence, and innovation capital in action.
+
+
 
 ---
 
