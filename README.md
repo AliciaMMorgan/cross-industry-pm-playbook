@@ -93,7 +93,7 @@ According to Deloitte’s Business Chemistry®, I am a primary Driver and second
 - 🛡️ As a **Guardian**, I value precision, risk-awareness, and structure—essential traits for navigating regulated, high-stakes, or legacy systems. I’m methodical, dependable, and lead with care.
      What sets me apart from many Guardians is a strong networking orientation, a deep appreciation for diverse skill sets, and the ability to infuse creative thinking—key to building trust across silos and driving collaboration in complex environments.
 
-🔄 In contrast, Pioneers thrive on brainstorming and rapid ideation, while Integrators focus on team cohesion and emotional insight. I collaborate effectively with both—bringing structure to vision, and momentum to consensus.
+🔄 In contrast, Pioneers thrive on brainstorming and rapid ideation, while Integrators focus on team cohesion and emotional insight. I collaborate effectively with both—bringing structure to vision and momentum to consensus.
 
 
 🎯 **Why it matters**: This Driver–Guardian combo allows me to align people, systems, and innovation. Whether building out new programs or scaling proven solutions, I apply the discipline of a PMP, the logic of an engineer, and the curiosity of an innovator.
