@@ -40,7 +40,7 @@ It’s also a visible expression of my leadership when I wasn’t “in charge,�
 - **Influence as Pull, Not Push**:  
   Many of my curatorial contributions were executed from positions without formal authority. Understanding strategic communication and social capital allowed me to build coalitions and shape outcomes through trust and alignment.
 
-(Cross-referenced in: *Strategic Communication & Executive Fluency*)
+(Cross-referenced in: [*Strategic Communication & Executive Fluency*](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md)
 
 ## 🧩 Lessons Learned Beyond the Agenda
 
