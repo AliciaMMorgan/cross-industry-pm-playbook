@@ -195,11 +195,11 @@ For detailed insights, see the full case study:
 
 Now, I work at the intersection of structure and experimentation—helping organizations balance process maturity with adaptive delivery.
 
-**Executive Nonprofit Leadership**  
+**Executive Nonprofit Leadership(2017-2020)**  
 - Led strategic education and community programs serving 45,000+ students, built scalable models, and secured formal state certifications.  
 - Directed multi-million-dollar budgets, improved operational efficiency by 25%, and partnered across 100+ institutions.
 
-**Consulting & PMP Credentialing** 
+**Consulting & PMP Credentialing(2020-Present)** 
 - Earned PMP certification focused on agile leadership and business value delivery.  
 - Facilitate Agile retrospectives, stakeholder engagement, and continuous improvement in complex environments.  
 - Speaker at PMI global and chapter events on empathetic leadership, innovation in traditional sectors, and strategic power skills.
