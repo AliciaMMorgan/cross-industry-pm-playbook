@@ -117,7 +117,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 * **Project Lifecycle**
   *Initiation → Planning → Execution → Monitoring → Closure*
-  Practiced and reinforced through over **30 capital projects per year** supporting mission-critical manufacturing initiatives.
+  Practiced and reinforced through over **30 capital projects per year(2007-2013)** supporting mission-critical manufacturing initiatives.
 
 * **Governance & Roles**
 
