@@ -161,7 +161,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 - Focused on youth STEM education and community outreach  
 - Built foundational governance and leadership skills  
 
-**🎯 Formal Program Leadership (2014–2017)** 
+**🎯 Formal Program Leadership Development (2014–2017)** 
 - Earned Nonprofit Management Certificate in 2013  
 - Led nonprofit youth programs emphasizing career readiness  
 - Developed board leadership pipelines and program strategies  
