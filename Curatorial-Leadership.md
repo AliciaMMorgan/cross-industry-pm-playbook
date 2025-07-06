@@ -1,6 +1,6 @@
 # 🎨 Curatorial Leadership & My Innovator’s DNA
 
-This section of the Cross-Industry Project Management Playbook captures how I’ve led not only through formal roles or projects, but also through curating inclusive, insight-driven experiences across industries. This includes Fortune 500 business resource groups, nonprofit and museum education programs, STEAM-integrated youth initiatives, and career development events in advisory roles. Curation here is not a sidebar — it is a **core innovation and leadership competency**.
+This section of the Cross-Industry PM Playbook captures how I’ve led not only through formal roles or projects, but also through curating inclusive, insight-driven experiences across industries. This includes Fortune 500 business resource groups, nonprofit and museum education programs, STEAM-integrated youth initiatives, and career development events in advisory roles. Curation here is not a sidebar — it is a **core innovation and leadership competency**.
 
 ## 🧬 Innovative DNA in Action
 
