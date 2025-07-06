@@ -11,7 +11,7 @@ My curatorial work has included:
 - 🏛️ Museum and Informal Education: As a VP of Education & Programs, led public programs, family days, and interdisciplinary learning labs centered on accessibility, STEAM, and cultural fluency.
 - 🌱 Nonprofit Learning Ecosystems: Designed after-school, school-based, and public education events aligned with learning standards and community engagement.
 - 🎓 NAF Academy Advisory Board Chair: Curated and facilitated career fairs and industry exposure programs in collaboration with public high schools and local employers.
--  J Rêve International LLC STEAM+ Arts Integration Conference and Contributing Author to STEAM+ Arts Integration Anthology: Insights and Practical Applications companion book 
+-  J Rêve International LLC- STEAM+ Arts Integration Conference and Contributing Author to STEAM+ Arts Integration Anthology: Insights and Practical Applications companion book 
 - 📚 This very playbook and [Innovation Reading List](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/blob/main/Innovation_Leadership_Reading_List.md:) is a curatorial act of synthesis and empowerment.
 
 ## 🧠 Curation as Strategic Competency
