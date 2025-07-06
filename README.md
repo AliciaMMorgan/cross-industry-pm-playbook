@@ -162,7 +162,7 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 - Built foundational governance and leadership skills  
 
 **🎯 Formal Program Leadership Development (2014–2017)** 
-- Earned Nonprofit Management Certificate in 2013  
+- Earned Nonprofit Management Certificate
 - Led nonprofit youth programs emphasizing career readiness  
 - Developed board leadership pipelines and program strategies  
 - Bridged technical skills with human-centered facilitation  
