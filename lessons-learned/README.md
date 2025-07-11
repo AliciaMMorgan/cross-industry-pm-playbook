@@ -111,7 +111,7 @@ Your reputation is your brand, but it must be curated across platforms and indus
 
 ---
 
-## ## Lesson 10: Apply the Innovator’s DNA to Every Industry
+## Lesson 10: Apply the Innovator’s DNA to Every Industry
 
 No matter what sector you enter — education, nonprofit, defense, or tech — the ability to **innovate across boundaries** is critical. One of the most transferable and powerful frameworks I’ve used is drawn from *The Innovator’s DNA*, developed by Jeff Dyer, Hal Gregersen, and Clayton Christensen.
 
