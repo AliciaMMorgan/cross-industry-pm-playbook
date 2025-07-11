@@ -127,6 +127,6 @@ This folder will grow. Up next:
 - More reading references and articles  
 - Optional visuals or frameworks
 
-Stay tuned and explore the rest of the [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook) for tools, templates, and use cases.
+Stay tuned and explore the rest of the [Cross Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook) for tools, templates, and use cases.
 
 
