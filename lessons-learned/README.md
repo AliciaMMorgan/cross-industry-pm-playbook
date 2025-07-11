@@ -111,12 +111,41 @@ Your reputation is your brand, but it must be curated across platforms and indus
 
 ---
 
-## Lesson 10: Apply the Innovator’s DNA — Everywhere
+## ## Lesson 10: Apply the Innovator’s DNA to Every Industry
 
-Innovators share five common habits: associating, questioning, observing, networking, and experimenting. These are essential no matter the industry or role. You don’t need to be the inventor, but you do need to think and act like a **cross-industry innovator**.
+No matter what sector you enter — education, nonprofit, defense, or tech — the ability to **innovate across boundaries** is critical. One of the most transferable and powerful frameworks I’ve used is drawn from *The Innovator’s DNA*, developed by Jeff Dyer, Hal Gregersen, and Clayton Christensen.
 
-**Supporting read**:  
-- *The Innovator’s DNA* by Jeff Dyer, Hal Gregersen, and Clayton Christensen
+Their research, published in the Harvard Business Review, identifies five key behaviors that drive disruptive innovation. These aren’t limited to tech entrepreneurs — they’re tools that cross-industry PMs, program leaders, and change agents can apply daily.
+
+> 📘 Citation: Jeff Dyer, Hal Gregersen, and Clayton M. Christensen, “The Innovator’s DNA,” *Harvard Business Review*, December 2009. [Link to article](https://hbr.org/2009/12/the-innovators-dna)
+
+---
+
+### 🧠 The Innovator’s DNA: 5 Key Behaviors
+
+1. **Associating**  
+   The ability to **connect seemingly unrelated ideas** across disciplines to spark new insights or solutions.  
+   *Example:* A project manager with aerospace experience applies risk modeling frameworks to nonprofit funding strategies.
+
+2. **Questioning**  
+   Constantly asking “what if,” “why,” and “how” to challenge the status quo and surface unseen assumptions.  
+   *Example:* “Why do we run this process quarterly — what would happen if we did it monthly instead?”
+
+3. **Observing**  
+   Watching customers, users, or environments closely to identify pain points, workarounds, or opportunities.  
+   *Example:* Observing how a community uses a resource center differently than expected, prompting a shift in program design.
+
+4. **Networking**  
+   Seeking out diverse perspectives — especially from people outside your usual circle or industry — to expand your understanding.  
+   *Example:* A PM in education connects with a cybersecurity leader to rethink student data protection.
+
+5. **Experimenting**  
+   Testing ideas quickly and cheaply through pilots, prototypes, or process tweaks.  
+   *Example:* Running a low-risk trial of a new workflow before rolling it out across the full team.
+
+---
+
+These skills are not just for "creatives" — they are critical tools for **delivering value**, especially when entering a new sector where legacy approaches may not be effective. Leaning into these behaviors has helped me navigate ambiguity, build credibility, and spark transformation from the inside out.
 
 ---
 
