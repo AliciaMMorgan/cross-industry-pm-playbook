@@ -316,6 +316,20 @@ This playbook will continue evolving as a **living artifact** of that work.
 
 ---
 
+---
+
+## ✅ Lessons Learned from the Field
+
+Want to understand the mindsets and principles from real-world experiences?
+
+📌 These lessons dive into the real-world challenges of pivoting across industries — like navigating trust, rebuilding influence, learning to speak multiple stakeholder “languages,” and measuring business value in unfamiliar sectors.
+
+🧠 They’re grounded in the same cross-industry mindset that fuels this playbook.
+
+🔗 [Explore the Lessons Learned →](lessons-learned/lessons-learned.md)
+
+---
+
 ⸻
 
 📬 Connect With Me
