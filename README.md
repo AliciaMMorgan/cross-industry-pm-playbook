@@ -278,7 +278,7 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 
 📘 **Resources & Templates**
-
+🔗 [Cross-Industry PM Career Roadmap (GitHub Project Board)](https://github.com/AliciaMMorgan/cross-industry-pm-career-roadmap) – A visual companion to this playbook, showing how to pivot across sectors, build credibility, and lead across industries.
 🔗 Project Charter Template  
 🔗 Stakeholder Engagement Checklist  
 🔗 Risk Log  
