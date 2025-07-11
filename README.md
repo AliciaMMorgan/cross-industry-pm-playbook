@@ -318,9 +318,10 @@ This playbook will continue evolving as a **living artifact** of that work.
 
 ⸻
 
-📬 **Connect With Me**
+📬 **Connect With Me
 
-If this playbook resonates or you’re looking to build your own, let’s connect:  
+For speaking invitations or strategic collaborations, please refer to my website for more information.
+
 🌐 https://aliciammorgan.com/  
 🎙️ Speaker • PM Strategist • Innovation Leader
 
