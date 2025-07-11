@@ -6,7 +6,9 @@ This playbook is a living document inspired by my journey from traditional proje
 
 >🔍 A cross-industry PM requires fluency in both explicit knowledge (formal methods, strategic frameworks) and tacit knowledge — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both, grounded in a lived cross-sector journey, mapped out in the companion [Cross-Industry PM Career Roadmap](https://github.com/users/AliciaMMorgan/projects/2/views/1).
 
+Any cross-industry PM requires fluency in both explicit, formal methods and tacit, frame-intensive knowledge — the kind that can only be developed through lived experience across sectors, constraints, and cultures.
 
+> This open-source playbook is hosted on GitHub and serves as a career-spanning archive — part roadmap, part reflection — capturing the principles, pivots, and practical tools behind cross-industry leadership.
 
 
 📇 **About Me**
