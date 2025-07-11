@@ -4,7 +4,7 @@
 
 This playbook is a living document inspired by my journey from traditional project and program management (PM) in technical environments (aerospace, defense) to innovation leadership across nonprofits, education, and enterprise organizations. In this context, **PM** includes both structured project execution and strategic program leadership, roles often adjacent to product and operations management. It’s designed to help project managers, program leaders, innovation leaders, and cross-functional teams build from structure into adaptive agility, without losing clarity or execution discipline.
 
-🔍 A cross-industry PM requires fluency in both explicit knowledge (formal methods, strategic frameworks) and tacit knowledge — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both, grounded in a lived cross-sector journey, mapped out in the companion [Cross-Industry PM Career Roadmap](https://github.com/users/AliciaMMorgan/projects/2/views/1).
+>🔍 A cross-industry PM requires fluency in both explicit knowledge (formal methods, strategic frameworks) and tacit knowledge — the kind learned through lived experience, timing, communication, and decision-making across complex, real-world settings. This playbook includes both, grounded in a lived cross-sector journey, mapped out in the companion [Cross-Industry PM Career Roadmap](https://github.com/users/AliciaMMorgan/projects/2/views/1).
 
 
 
