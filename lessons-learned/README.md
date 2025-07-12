@@ -149,10 +149,20 @@ These skills are not just for "creatives" — they are critical tools for **deli
 
 ---
 
+## Lesson 11: Managing Risk and Maximizing Impact Under Constraints
+
+Working on capital projects within a Fortune 500 environment, I consistently managed a **10% management reserve**—a best practice that ensured project delivery stayed on time and within budget. This financial buffer enabled proactive risk mitigation without compromising **performance**.
+
+Later, in nonprofit program leadership, **there was no reserve—only ingenuity**. Budgets were secured mid-stream, and partnerships were forged in real time to extend reach and improve outcomes. I learned to navigate uncertainty by **maximizing impact with minimal resources**, leaning into collaboration, shared goals, and efficient program design.
+
+Whether in capital-intensive or under-resourced environments, **strategic constraint management** became a throughline—evidence of both sound business acumen and adaptive leadership.
+
+---
+
 ## Next Steps
 
 This folder will grow. Up next:  
-- Additional lessons (aiming for 10–20 total)  
+- Additional lessons (aiming for 20 total)  
 - More reading references and articles  
 - Optional visuals or frameworks
 
