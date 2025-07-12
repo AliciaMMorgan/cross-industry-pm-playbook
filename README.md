@@ -294,12 +294,8 @@ When structured thinking meets strategic storytelling—**innovation scales.**
 
 ⸻
 
-📈 **KPIs & Lessons Learned**
+📈 **KPIs**
 - What success looks like: delivery and adoption
-- Lessons from every role include:  
-   • Listen first, map second  
-   • Create clarity in chaos  
-   • Balance people, process, and platform
 
 ⸻
 
