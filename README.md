@@ -182,7 +182,9 @@ As a **Senior Researcher and Vertical Team Facilitator** for the Texas Regional 
 🎯 Our work surfaced key skill gaps—like communication, collaboration, and career awareness—and we co-developed instructional strategies across math, CS, IT, physics, and engineering. These insights directly informed the **STEM Insight Digital Transformation Project**, where I led **user research, data-informed design, and cross-functional facilitation**. This platform became a model for how digital tools can **bridge education and workforce systems** at scale.
 
 🔗 👉 [Project Results Summary (PDF)](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)  
-🌐 👉 [STEM Insight Platform](https://www.steminsight.org/Pages/default.aspx)
+
+🌐 👉 [STEM Insight Platform](https://www.steminsight.org/Pages/default.aspx) 
+
 🔗 👉 [Outcome Action Guide College and Workforce Readiness](https://drive.google.com/file/d/1i4Q6nfXKlHCtP4GBHzhqcCT4TF3u2SVz/view?usp=drive_link)
 
 **🚩 Other Highlights** 
