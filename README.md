@@ -183,6 +183,7 @@ As a **Senior Researcher and Vertical Team Facilitator** for the Texas Regional 
 
 🔗 👉 [Project Results Summary (PDF)](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)  
 🌐 👉 [STEM Insight Platform](https://www.steminsight.org/Pages/default.aspx)
+🔗 👉 [Outcome Action Guide College and Workforce Readiness](https://drive.google.com/file/d/1i4Q6nfXKlHCtP4GBHzhqcCT4TF3u2SVz/view?usp=drive_link)
 
 **🚩 Other Highlights** 
 - Impacted 3 mission-aligned organizations  
