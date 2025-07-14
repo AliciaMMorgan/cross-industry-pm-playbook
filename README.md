@@ -328,7 +328,7 @@ Want to understand the mindsets and principles from real-world experiences?
 
 🧠 They’re grounded in the same cross-industry mindset that fuels this playbook.
 
-🔗 [Explore the Lessons Learned →](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/tree/main/lessons-learned)
+🔗 [Explore the Lessons Learned →](lessons-learned/README.md)
 
 ---
 
