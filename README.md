@@ -175,13 +175,14 @@ This section outlines the **traditional PM practices, frameworks, and toolsets**
 
 **💻 Digital Transformation Highlight** 
 
-A key foundation in my consulting leadership journey was the **Dallas College STEM Insight Digital Transformation Project**.  
+🧠 Senior Researcher & Facilitator – Texas Regional STEM Degree Accelerator (North Texas Region)
 
-In my role as Senior Researcher and Facilitator, I led user research, cross-functional collaboration, and data-driven design to support developers, UX designers and PMs in creating a digital platform connecting students, educators, and employers in STEM pathways.  
-For detailed results and insights, visit:  
-👉 [Dallas College STEM Insight Project Results](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)
+As a **Senior Researcher and Vertical Team Facilitator** for the Texas Regional STEM Degree Accelerator (TRSDA), I supported the co-design of regional STEM pathways by bringing together K–12 educators, higher education leaders, and employers. This three-year initiative aimed to boost student **engagement, retention, and success** by aligning instruction with real-world industry needs.
 
-👉 See the existing educational platform for Connecting You to Science, Technology, Engineering, and Math in North Texas [Click Here](https://www.steminsight.org/Pages/default.aspx)
+🎯 Our work surfaced key skill gaps—like communication, collaboration, and career awareness—and we co-developed instructional strategies across math, CS, IT, physics, and engineering. These insights directly informed the **STEM Insight Digital Transformation Project**, where I led **user research, data-informed design, and cross-functional facilitation**. This platform became a model for how digital tools can **bridge education and workforce systems** at scale.
+
+🔗 👉 [Project Results Summary (PDF)](https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=sharing)  
+🌐 👉 [STEM Insight Platform](https://www.steminsight.org/Pages/default.aspx)
 
 **🚩 Other Highlights** 
 - Impacted 3 mission-aligned organizations  
