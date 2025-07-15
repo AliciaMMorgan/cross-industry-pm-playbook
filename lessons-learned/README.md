@@ -204,6 +204,20 @@ This taught me that the *planned* path is rarely the *true* critical path. We of
 - Strategic detours are often what get you to the finish line.
   
 ---
+## Lesson 15: Show Up When There’s No Spotlight, No Certainty, No Applause
+
+There will be seasons when you’re not the rising star, not the one driving the biggest outcomes, and not sure what’s next. There's no audience, no milestone, no clarity — and still, you have to show up. That’s where leadership shifts from performance to presence.
+
+As someone wired for outcomes and traction, I had to learn that not every phase is about winning or building. Sometimes the only thing being built is trust. You won’t always feel strong or certain, but your presence — especially when it’s quiet, uncertain, and unglamorous — is what makes the difference.
+
+## ✅ Key Takeaways:
+- **Presence is a form of leadership.** Being there when things are unclear builds trust and stability.
+- **Progress isn’t always visible.** Some transformations happen in the quiet phases.
+- **You don’t have to be at your best to be valuable.** Consistency and care matter more than performance.
+- **Character shows when the spotlight fades.** Showing up without recognition builds real credibility.
+- **Leadership is also about holding space, not just pushing forward.**
+  
+___
 
 ## Next Steps
 
