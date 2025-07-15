@@ -191,22 +191,19 @@ This reflects the power of **weak ties**, a concept introduced by sociologist Ma
 ---
 ## Lesson 14: Failure *Is* an Option—and a Critical Part of Growth
 
-We need to move beyond the old saying “failure is not an option.” The reality is that failure *will* happen—sometimes despite our best planning and execution. What matters most is how you respond, learn, and regroup. Adopting a growth mindset means understanding that setbacks are not the end of the path but part of the process.
+The phrase “failure is not an option” sounds heroic, but in real life, failure happens—and often teaches us more than success. You can do everything right and still fall short of your goal. What matters is how you respond. I failed the PMP exam on my first attempt, yet still went on to lead major projects and programs. When I returned to it more than a decade later, I passed—because I approached it differently. I broke it into stages, took frequent practice exams, and focused on identifying the critical path to success instead of assuming one perfect approach.
 
-I’ve lived this firsthand. I originally failed the PMP exam, even after putting in a solid effort. And yet, I still went on to lead large-scale projects and cross-sector programs before circling back—over a decade later—to earn the certification. That second time, I approached it differently: I broke the process into stages, used practice exams strategically, and focused on identifying the *critical path* to success. It wasn’t about perfection; it was about preparation, iteration, and learning from the first attempt.
-
-Failure doesn't always look dramatic—it can be a missed opportunity, a close call, or an outcome that doesn’t align with your original vision. The key is to treat each one as a retrospective moment. Ask: What worked? What didn’t? What did I miss? Should I observe someone who’s already doing this well? Can I volunteer or shadow to fill in the gaps? This kind of reflective, adaptive thinking is what builds resilience and real innovation capital.
+Failure isn’t always dramatic it can be a slow miss, a close call, or a plan that doesn’t deliver the intended outcome. The key is to treat it as a learning cycle: What worked? What didn’t? What did I miss? Do I need to observe someone else in action or volunteer to close skill gaps? Growth comes from honest retrospectives and a willingness to revise your strategy. Resilience isn't avoiding failure—it's learning how to navigate through it smarter the next time.
 
 ---
 
 ## ✅ Key Takeaways
 
-- Failure is part of the process—not a sign you don’t belong.  
-- Growth comes from reflection, iteration, and better preparation.  
-- Even “close calls” offer valuable lessons—treat them as data, not just emotion.  
-- Break complex goals into stages and identify your true critical path to success.  
-- Use retrospectives and strategic observation to improve your approach over time.
-
+- Failure is part of the path—not proof you’re on the wrong one.  
+- A growth mindset turns setbacks into stepping stones.  
+- Break down big goals into stages and build a clearer path to success.  
+- Use retrospectives to reflect, adapt, and improve.  
+- Strategic observation and volunteering can help close unseen gaps.
 ---
 
 ## Next Steps
