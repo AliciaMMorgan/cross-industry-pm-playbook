@@ -181,7 +181,7 @@ Some of the most valuable mentors in my journey came from outside my direct fiel
 
 This reflects the power of **weak ties**, a concept introduced by sociologist Mark Granovetter. His research shows that people we know casually or across domains often introduce the most novel opportunities and ideas. Strong ties tend to reinforce familiar knowledge and networks, while weak ties connect us to different industries, disciplines, and worldviews. These broader perspectives are essential for building innovation capital and understanding challenges through multiple lenses—from customers to stakeholders to communities.
 
-### Key Takeaways
+## ✅ Key Takeaways
 
 - Seek mentors who challenge your thinking and expand your perspective.  
 - Weak ties connect you to new opportunities, ideas, and sectors.  
