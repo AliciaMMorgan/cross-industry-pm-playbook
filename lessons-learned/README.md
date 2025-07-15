@@ -191,7 +191,7 @@ This reflects the power of **weak ties**, a concept introduced by sociologist Ma
 ---
 ## Lesson 14: Adapt Your Critical Path—Plans Are Ideal, Reality Isn’t
 
-Even with the best planning, the path to your goal often looks different in practice. You may hit roadblocks, miss the mark, or need to reroute entirely. When I first took the PMP exam, I failed—even after preparing thoughtfully. A decade later, I passed—but only after breaking the process into clear stages, identifying gaps, and adjusting my approach. The second time around wasn’t about doing *more*, it was about doing it *differently*.
+Even with the best planning, the path to your goal often looks different in practice. You may hit roadblocks, miss the mark, or need to reroute entirely. When I first took the PMP exam, I failed—even after preparing thoughtfully. More than a decade later, I passed—but only after breaking the process into clear stages, identifying gaps, and adjusting my approach. The second time around wasn’t about doing *more*, it was about doing it *differently*.
 
 This taught me that the *planned* path is rarely the *true* critical path. We often build plans based on ideal conditions, but success comes from observing what’s actually working and revising accordingly. Retrospectives, practice runs, and strategic observation—whether through mentoring, shadowing, or volunteering—can surface what’s missing. Adapting your critical path is a leadership skill, not a fallback. The faster you adjust, the more resilient your progress becomes.
 
