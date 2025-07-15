@@ -189,21 +189,20 @@ This reflects the power of **weak ties**, a concept introduced by sociologist Ma
 - Both formal and informal mentors shape leadership in different, valuable ways.
 
 ---
-## Lesson 14: Failure *Is* an Option—and a Critical Part of Growth
+## Lesson 14: Adapt Your Critical Path—Plans Are Ideal, Reality Isn’t
 
-The phrase “failure is not an option” sounds heroic, but in real life, failure happens—and often teaches us more than success. You can do everything right and still fall short of your goal. What matters is how you respond. I failed the PMP exam on my first attempt, yet still went on to lead major projects and programs. When I returned to it more than a decade later, I passed—because I approached it differently. I broke it into stages, took frequent practice exams, and focused on identifying the critical path to success instead of assuming one perfect approach.
+Even with the best planning, the path to your goal often looks different in practice. You may hit roadblocks, miss the mark, or need to reroute entirely. When I first took the PMP exam, I failed—even after preparing thoughtfully. A decade later, I passed—but only after breaking the process into clear stages, identifying gaps, and adjusting my approach. The second time around wasn’t about doing *more*, it was about doing it *differently*.
 
-Failure isn’t always dramatic it can be a slow miss, a close call, or a plan that doesn’t deliver the intended outcome. The key is to treat it as a learning cycle: What worked? What didn’t? What did I miss? Do I need to observe someone else in action or volunteer to close skill gaps? Growth comes from honest retrospectives and a willingness to revise your strategy. Resilience isn't avoiding failure—it's learning how to navigate through it smarter the next time.
-
----
+This taught me that the *planned* path is rarely the *true* critical path. We often build plans based on ideal conditions, but success comes from observing what’s actually working and revising accordingly. Retrospectives, practice runs, and strategic observation—whether through mentoring, shadowing, or volunteering—can surface what’s missing. Adapting your critical path is a leadership skill, not a fallback. The faster you adjust, the more resilient your progress becomes.
 
 ## ✅ Key Takeaways
 
-- Failure is part of the path—not proof you’re on the wrong one.  
-- A growth mindset turns setbacks into stepping stones.  
-- Break down big goals into stages and build a clearer path to success.  
-- Use retrospectives to reflect, adapt, and improve.  
-- Strategic observation and volunteering can help close unseen gaps.
+- The ideal plan is rarely the real path—adaptation is strategic.  
+- Identify the *actual* critical path through observation and iteration.  
+- Break goals into stages and assess progress honestly.  
+- Use setbacks to reveal gaps, not as signs to quit.  
+- Strategic detours are often what get you to the finish line.
+  
 ---
 
 ## Next Steps
