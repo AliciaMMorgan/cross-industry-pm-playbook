@@ -290,7 +290,7 @@ One of the most defining moments in my leadership journey came from receiving a 
 
 This lesson is about embracing feedback, not fearing it. From business chemistry tools (like learning I’m a Driver and a Guardian) to live observations and one-on-one conversations, I’ve learned that data is everywhere — if you’re willing to notice. Emotional intelligence, boundary setting, active listening, and empathy mapping aren’t side skills. They’re core to transformational leadership. The goal isn’t to contort yourself to every opinion — it’s to gain clarity about what’s working, what’s not, and how to evolve. Sometimes your past leadership style doesn’t scale into your future. But if you can make space for reflection, you can redesign how you lead — with more precision, humanity, and impact.
 
-### 🔑 Key Takeaways
+## ✅ Key Takeaways
 
 - **Perception is a leadership signal, not just noise.** How others experience you is part of your effectiveness — even if your intent is good, impact is what lands.
 - **360° assessments, feedback loops, and personality tools are not about vanity — they’re about growth.** Use them to calibrate your blind spots, not just confirm your strengths.
