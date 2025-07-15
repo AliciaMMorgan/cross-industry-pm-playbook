@@ -251,6 +251,22 @@ The work doesn’t end there. Investing in yourself also means drawing boundarie
 
 ___
 
+## Lesson 18: Emotional Agility Is Leadership Work
+
+To operate at a high level — especially across industries, high-stakes environments, or high-visibility roles — you must do your emotional work. Therapy, healing, and boundary-setting aren’t just personal tools; they’re professional assets. I’ve learned through my own journey how overworking, overthinking, and hypervigilance can be trauma responses. Left unexamined, these patterns can shape how you lead, how you communicate, and whether others feel psychological safety around you. Emotional intelligence isn’t optional. It's part of the operating system for sustainable leadership.
+
+Mental agility requires knowing your triggers, your tendencies under pressure, and how to regulate your internal climate — especially when others are projecting theirs. Learning to say “yes, and” instead of “yes, but” isn’t just semantics; it’s about defusing unnecessary conflict and creating more space for complexity and truth. This isn’t always easy to talk about, but it’s real. Without this inner work, adaptability becomes fragile. With it, you become the kind of leader who can handle volatility without transferring it.
+
+### ✅ Key Takeaways
+
+- Emotional intelligence is foundational — not a soft skill, but a power skill.
+- Healing and therapy help you understand triggers, habits, and hidden patterns like overworking or hypervigilance.
+- Psychological safety starts with self-awareness. Unexamined behaviors impact your team.
+- “Yes, and” creates space for complexity. “Yes, but” often shuts it down.
+- Leadership is emotional labor. Do the inner work so your external impact is intentional.
+
+___
+
 ## Next Steps
 
 This folder will grow. Up next:  
