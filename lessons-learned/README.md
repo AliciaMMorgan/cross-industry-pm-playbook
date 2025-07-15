@@ -235,6 +235,22 @@ By treating your career like a living archive — as you’ve done with this Git
   
 ___
 
+## Lesson 17: Invest in You — Your Presence, Style, and Growth Matter
+
+At every career stage, how you show up — visually, vocally, and energetically — sends a signal. A few years ago, I worked with a style coach to understand the colors, lines, and fits that matched me best. It wasn’t vanity; it was clarity. Decisions got easier, and I felt more confident. I also worked with a voice and speech coach to strengthen how I present, pause, and hold space. These weren’t superficial add-ons — they were strategic investments in my delivery, credibility, and ability to lead. Now, I also use tools like Microsoft Coach to refine inclusive language, slide clarity, and executive presence.
+
+The work doesn’t end there. Investing in yourself also means drawing boundaries, tending to your mental and physical health, and owning your story. As you grow across industries, you bring your presence with you — your style, your voice, your energy. When those elements are rooted in intention, they scale with you. Whether you're preparing for a keynote, an interview, or a tough conversation, your presence becomes an asset you’ve consciously shaped — not something left to chance.
+
+## ✅ Key Takeaways
+
+- Style isn’t superficial — it’s strategic. Know what works for you and reduce decision fatigue.  
+- Tools and coaches can help refine voice, gravitas, and executive presence — don’t be afraid to invest.  
+- Use presentation tools (like Microsoft Coach) to improve clarity, tone, and inclusivity.  
+- Personal development is professional development. Your growth is your greatest asset.  
+- Presence is how you walk into a room — own it, develop it, and let it reflect your evolution.
+
+___
+
 ## Next Steps
 
 This folder will grow. Up next:  
