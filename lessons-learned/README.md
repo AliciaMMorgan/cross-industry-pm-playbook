@@ -175,6 +175,20 @@ This isn't about erasing the past—it’s about **clarity and alignment**. Just
 > Growth isn’t just about adding—it’s about **refining**.
 
 ---
+## Lesson 13: Seek Nonlinear Mentors—Especially Weak Ties Across Industries
+
+Some of the most valuable mentors in my journey came from outside my direct field—and that’s what made them so impactful. While I’m an engineer by training, I’ve learned just as much from nonprofit leaders, educators, and innovators in adjacent spaces. One mentor, an engineer who transitioned into nonprofit executive leadership, helped me shift from focusing on outputs to driving meaningful outcomes. Their perspective helped shape my leadership approach as a VP of Education and Programs in a mission-driven organization.
+
+This reflects the power of **weak ties**, a concept introduced by sociologist Mark Granovetter. His research shows that people we know casually or across domains often introduce the most novel opportunities and ideas. Strong ties tend to reinforce familiar knowledge and networks, while weak ties connect us to different industries, disciplines, and worldviews. These broader perspectives are essential for building innovation capital and understanding challenges through multiple lenses—from customers to stakeholders to communities.
+
+### Key Takeaways
+
+- Seek mentors who challenge your thinking and expand your perspective.  
+- Weak ties connect you to new opportunities, ideas, and sectors.  
+- Innovation thrives at the intersection of **cross-functional** disciplines and experiences.  
+- Both formal and informal mentors shape leadership in different, valuable ways.
+
+---
 
 ## Next Steps
 
