@@ -189,6 +189,25 @@ This reflects the power of **weak ties**, a concept introduced by sociologist Ma
 - Both formal and informal mentors shape leadership in different, valuable ways.
 
 ---
+## Lesson 14: Failure *Is* an Option—and a Critical Part of Growth
+
+We need to move beyond the old saying “failure is not an option.” The reality is that failure *will* happen—sometimes despite our best planning and execution. What matters most is how you respond, learn, and regroup. Adopting a growth mindset means understanding that setbacks are not the end of the path but part of the process.
+
+I’ve lived this firsthand. I originally failed the PMP exam, even after putting in a solid effort. And yet, I still went on to lead large-scale projects and cross-sector programs before circling back—over a decade later—to earn the certification. That second time, I approached it differently: I broke the process into stages, used practice exams strategically, and focused on identifying the *critical path* to success. It wasn’t about perfection; it was about preparation, iteration, and learning from the first attempt.
+
+Failure doesn't always look dramatic—it can be a missed opportunity, a close call, or an outcome that doesn’t align with your original vision. The key is to treat each one as a retrospective moment. Ask: What worked? What didn’t? What did I miss? Should I observe someone who’s already doing this well? Can I volunteer or shadow to fill in the gaps? This kind of reflective, adaptive thinking is what builds resilience and real innovation capital.
+
+---
+
+## ✅ Key Takeaways
+
+- Failure is part of the process—not a sign you don’t belong.  
+- Growth comes from reflection, iteration, and better preparation.  
+- Even “close calls” offer valuable lessons—treat them as data, not just emotion.  
+- Break complex goals into stages and identify your true critical path to success.  
+- Use retrospectives and strategic observation to improve your approach over time.
+
+---
 
 ## Next Steps
 
