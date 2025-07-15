@@ -271,6 +271,10 @@ ___
 
 ___
 
+: Every team has a choice - to become world-class or to remain unchangeable. My leadership journey across various sectors highlights the importance of innovation and taking calculated risks to evolve into world-class organizations. Let us discuss how to Take it to the Team and embrace a “But Then One Day” story instead continuing “And Every Day” with no change.  
+
+___
+
 ## Next Steps
 
 This folder will grow. Up next:  
