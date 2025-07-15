@@ -159,6 +159,23 @@ Whether in capital-intensive or under-resourced environments, **strategic constr
 
 ---
 
+# Lesson 12: Curate Your Digital Presence for the Level You’re Aiming For
+
+As you grow into more strategic, cross-functional, or executive roles, **your digital footprint should evolve too**. What helped establish credibility in the past—especially tactical content or legacy platforms—can quietly undermine your positioning if it no longer aligns with your current focus.
+
+Recently, I discovered that my outdated SlideShare account—with an old website and context-heavy decks—was still appearing high in search results. It didn’t reflect how I lead today, and I hadn’t touched it in years. That was a clear signal: it was time to reassess what’s still representing me online.
+
+This isn't about erasing the past—it’s about **clarity and alignment**. Just like an executive summary focuses on what matters most for today’s decision, your digital presence should support the business value you bring now.
+
+## ✅ Key Takeaways
+- Archive or remove content that no longer reflects your strategic direction.
+- Retire platforms that no longer support your goals—even if they once drove visibility.
+- Keep your public presence aligned with your current value proposition and leadership voice.
+
+> Growth isn’t just about adding—it’s about **refining**.
+
+---
+
 ## Next Steps
 
 This folder will grow. Up next:  
