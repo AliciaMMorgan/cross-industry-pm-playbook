@@ -78,7 +78,7 @@ To deepen my cross-industry fluency and agility, I’ve proactively pursued tool
 
 For example:
 - I earned an **Agile Metrics Certification** to better understand leading vs. lagging indicators and how to apply them in collaborative and complex environments.
-- I’ve integrated this mindset throughout the playbook — combining clarity, adaptability, and thought leadership for creating meaningful action across sectors.
+- I’ve integrated this mindset throughout the playbook, combining clarity, adaptability, and thought leadership for creating meaningful action across sectors.
 - I leverage AI agents and efficiency tools to enhance both strategic insights and tactical execution, driving critical success factors effectively.
   
 ---
@@ -92,9 +92,9 @@ According to Deloitte’s Business Chemistry®, I am a primary Driver and second
 
 - 🚗 As a **Driver**, I’m structured, outcome-oriented, and energized by complex service. I cut through ambiguity and deliver results. I also bring a unique, empathic leadership style, allowing me to lead with both engineering precision and emotional intelligence—ideal for bridging innovation with accountability.
 - 🛡️ As a **Guardian**, I value precision, risk-awareness, and structure—essential traits for navigating regulated, high-stakes, or legacy systems. I’m methodical, dependable, and lead with care.
-     What sets me apart from many Guardians is a strong networking orientation, a deep appreciation for diverse skill sets, and the ability to infuse creative thinking—key to building trust across silos and driving collaboration in complex environments.
+     What sets me apart from many Guardians is a strong networking orientation, a deep appreciation for diverse skill sets, and the ability to infuse creative thinking, key to building trust across silos and driving collaboration in complex environments.
 
-🔄 In contrast, Pioneers thrive on brainstorming and rapid ideation, while Integrators focus on team cohesion and emotional insight. I collaborate effectively with both—bringing structure to vision and momentum to consensus.
+🔄 In contrast, Pioneers thrive on brainstorming and rapid ideation, while Integrators focus on team cohesion and emotional insight. I collaborate effectively by bringing structure to vision and momentum to consensus.
 
 
 🎯 **Why it matters**: This Driver–Guardian combo allows me to align people, systems, and innovation. Whether building out new programs or scaling proven solutions, I apply the discipline of a PMP, the logic of an engineer, and the curiosity of an innovator.
