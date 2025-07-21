@@ -242,6 +242,7 @@ I also leverage:
 - 🎨 **Visual Storytelling**: Canva (with Magic Design and AI-powered brand kits) to create compelling, on-brand graphics that accelerate alignment and engagement
 
 📂 Want a deeper dive into how I use AI across leadership, execution, and storytelling?
+
 🔗 Explore the AI Fluency Folder →[AI-Fluency](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/tree/main/AI-Tool-Fluency)
 
 Favorite tools include:  
