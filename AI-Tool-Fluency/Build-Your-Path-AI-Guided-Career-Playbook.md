@@ -63,7 +63,7 @@ You don’t need to be a developer. This is just structured content, hosted visu
    Don’t over-polish. This is for clarity, not perfection. AI can help tighten language, but the experience is yours to own.
 
 4. **Use Commits to Track Growth**  
-   Each time you add or revise something, your GitHub history will show your evolution. That’s part of the story too.
+   Each time you add or revise something, your GitHub history will show your evolution. That’s part of the story, too.
 
 ---
 
@@ -78,3 +78,19 @@ Use AI to help you see the patterns — and tell the story that only you can.
 
 🧠 Want to go deeper?  
 Explore the rest of this folder for how I integrate AI into storytelling, planning, stakeholder alignment, and execution.
+
+---
+
+📄 License
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material for any purpose, even commercially
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+Suggested attribution:
+"Based on work by Alicia M. Morgan – [Cross-Industry PM Playbook](github.com/AliciaMMorgan)
+For full license details, visit creativecommons.org/licenses/by/4.0.
