@@ -241,6 +241,8 @@ I also leverage:
 - 🧮 **Data Framing**: Using AI to translate complexity into visual dashboards or simplified updates
 - 🎨 **Visual Storytelling**: Canva (with Magic Design and AI-powered brand kits) to create compelling, on-brand graphics that accelerate alignment and engagement
 
+📂 Want a deeper dive into how I use AI across leadership, execution, and storytelling?
+🔗 Explore the AI Fluency Folder →[AI-Fluency](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/tree/main/AI-Tool-Fluency)
 
 Favorite tools include:  
 **ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **Gemini**, **SharePoint**, **Canva**
