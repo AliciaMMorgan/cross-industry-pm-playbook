@@ -1,0 +1,3 @@
+# AI Tool Fluency Snapshot
+
+This section of the Cross-Industry PM Playbook documents how I use AI tools strategically across industries and leadership roles...
