@@ -1,6 +1,6 @@
 # 🧭 Build Your Path: Creating a Career Playbook with AI Support
 
-If you're exploring how to make your career story visible, strategic, and future-ready — this guide offers a high-level overview of how AI tools can help you clarify your path, structure your wins, and build your own professional playbook on GitHub.
+If you're exploring how to make your career story visible, strategic, and future-ready, this guide offers a high-level overview of how AI tools can help you clarify your path, structure your wins, and build your professional playbook on GitHub.
 
 This approach is designed for professionals across industries who want to:
 
@@ -19,7 +19,7 @@ This is **not** about showing off every detail or uploading your resume as-is. I
 - Any **project artifacts** (e.g., reports, tools, checklists) you’re able to safely reference
 - Any **feedback reports** (360 assessments, personality frameworks, leadership reviews) that can guide tone and content
 - A **free GitHub account**
-- Familiarity with Markdown (or willingness to learn)
+- Familiarity with Markdown (or willingness to learn)- AI tools can assist you with creating this as well through prompt engineering. 
 
 ---
 
