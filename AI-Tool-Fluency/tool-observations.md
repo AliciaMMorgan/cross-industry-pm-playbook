@@ -2,6 +2,9 @@
 
 Over time, I've tested and deployed various AI-powered tools. Here's a summary of observed patterns—beyond the hype.
 
+> 📌 Note: The insights shared in this document are based on personal experience using publicly available generative AI tools across general project and program work. They are not tied to any proprietary system, client engagement, or confidential information. These reflections are intended for educational and exploratory purposes only and apply broadly across industries.
+
+
 ## What Works Well
 
 - **Otter.ai / Zoom AI Companion / Fireflies.ai**
