@@ -8,6 +8,12 @@ This playbook is a living document inspired by my journey from traditional proje
 
 > This open-source playbook is hosted on GitHub and serves as a career-spanning archive — part roadmap, part reflection — capturing the principles, pivots, and practical tools behind cross-industry leadership.
 
+### 👇 Credibility at a Glance
+
+<p align="center">
+  <img src="assets/credibility-at-a-glance.png" alt="Credibility at a Glance" width="600"/>
+</p>
+
 
 📇 **About Me**
 
