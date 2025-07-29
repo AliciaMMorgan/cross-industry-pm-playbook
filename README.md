@@ -245,6 +245,7 @@ I also leverage:
 - 🗣️ **Communication Coaching**: Microsoft Speaker Coach for tone, timing, accessibility, and presence  
 - 🧾 **Document Review**: Drafting and refining strategies, risk logs, and stakeholder briefs with AI as a writing partner  
 - 🧮 **Data Framing**: Using AI to translate complexity into visual dashboards or simplified updates
+- 📚 **Research & Strategy Intelligence**: I use **Perplexity AI** to surface sourced insights, compare perspectives, and identify relevant trends—enabling faster, clearer decision-making in dynamic contexts
 - 🎨 **Visual Storytelling**: Canva (with Magic Design and AI-powered brand kits) to create compelling, on-brand graphics that accelerate alignment and engagement
 
 📂 Want a deeper dive into how I use AI across leadership, execution, and storytelling?
