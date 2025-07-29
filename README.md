@@ -253,7 +253,7 @@ I also leverage:
 🔗 Explore the AI Fluency Folder →[AI-Fluency](https://github.com/AliciaMMorgan/cross-industry-pm-playbook/tree/main/AI-Tool-Fluency)
 
 Favorite tools include:  
-**ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**, **Gemini**, **SharePoint**, **Canva**
+**ChatGPT**, **Claude**, **Microsoft 365 Copilot**, **GitHub Copilot**, **OneDrive**, **Google Drive**,  **Perplexity**, **Gemini**, **SharePoint**, **Canva**
 
 These agents are more than tools—they extend my thinking. They allow me to operate at scale while preserving the empathy and strategy required for real impact.
 
