@@ -236,7 +236,7 @@ These resources show how cross-industry project and program management come to l
 
 🤖 **AI Fluency & Intelligent Tools** 
 
-As an innovation leader, I actively integrate AI into my daily workflow—not as a novelty, but as a key collaborator in elevating communication, clarity, and execution. I use tools like **ChatGPT**, **Claude**, and **Microsoft 365 Copilot** to fine-tune messaging, build presentations, and streamline knowledge transfer across teams. These agents help me think faster, plan smarter, and communicate with intention.
+As an innovation leader, I actively integrate AI into my daily workflow—not as a novelty, but as a key collaborator in elevating communication, clarity, and execution. I use tools like **ChatGPT**, **Claude**, **Perplexity**, and **Microsoft 365 Copilot** to fine-tune messaging, build presentations, and streamline knowledge transfer across teams. These agents help me think faster, plan smarter, and communicate with intention.
 
 I also leverage:
 
