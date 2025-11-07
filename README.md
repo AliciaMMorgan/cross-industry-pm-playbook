@@ -28,38 +28,47 @@ This playbook is a living document inspired by my journey from traditional proje
 📇 **About Me**
 
 I'm Alicia M. Morgan—a 15+ years **award-winning** PMP-certified project/program strategist with a foundation in aerospace and industrial engineering. I began my career leading technical execution, lean manufacturing, and capital improvement projects in regulated, high-stakes environments. Over time, I transitioned into the nonprofit and education sectors, bringing structured thinking into more ambiguous spaces while expanding my focus on innovation, digital transformation, and strategic program design.
-My work has earned national and regional recognition. I’m a 2019 **Dallas Business Journal Women in Technology Awards Advocate Honoree** and have been featured in:
+
+My work has earned national and regional recognition. I'm a 2019 **Dallas Business Journal Women in Technology Awards Advocate Honoree** and have been featured in:
+
+- 🌐 **Project Bites Contributor (2024-present)**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. [My shared expertise includes insights](https://projectbites.com/browse/all-bites/?_bite_speakers=5171) on *Leading Innovation in Traditional Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
+
+- 🌀 **2024 AgileCon (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and [*featured contributor on website blog*](https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)
 
 - 🧠 **2023 PMI Webinar**: Presenter of [*Empathetic Leadership: A Key Approach to Effective Change Management* (20K+ views, 4★+ rating)](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-#_)
+
+- 🎤 **2023 WE23 Conference**: Inspirational Insight Sessions Speaker on [*Strategic Leadership: Empowering Teams to Win*](https://youtu.be/5RlDCOTRQHA?si=0hI9VR8N5aT8Ic9C)
+
+- 🎤 **2017 TEDx Plano Speaker**: Keynote on growth mindset, innovation, and inclusion
+
+- 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature (2017)](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and *2019 WE Local Engaged Advocate K-12 Educator Honoree*
+
+- 📘 **PM World Journal**: [Featured](https://pmworldlibrary.net/authors/alicia-morgan/) for global project and program management insights
+
+- 🌐 **National Informal STEM Education (NISE) Network**: [*Featured article*](https://www.nisenet.org/blog/post/partner-highlight-frontiers-flight-museum-dallas-texas-celebrates-50th-anniversary-moon) for innovation in science and education engagement
+
+- 💼 **Crain's Chicago Business**: Featured article on cross-sector and generational leadership
+
 - ✅ **Certifications**:
 
      🎯 PMP – Project Management Professional
-
+     
      🚀 Atlassian Agile Project Management – Professional Certificate
-
+     
      🤖 PMI – Practical Application of GenAI for Project Managers
-
+     
      📊 PMI – Data Landscape of GenAI for Project Managers
-
+     
      📈 PMI – Agile Metrics (DA Micro-Credential)
-
+     
      🧠 Vanderbilt University – Prompt Engineering for ChatGPT
-
+     
      📘 Microsoft Excel – Microsoft Apps & Office 2019
-
+     
      💼 CNM Connect – Nonprofit Management Certification
-  
-- 🎤 **2017 TEDx Plano Speaker and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
-- 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and 2023 *WE23
-       conference* Inspirational Insight Sessions Speaker on the topic of [*Strategic Leadership: Empowering Teams to Win*](https://youtu.be/5RlDCOTRQHA?si=0hI9VR8N5aT8Ic9C) and a 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
-- 📘 **PM World Journal**: [Featured](https://pmworldlibrary.net/authors/alicia-morgan/) for global project and program management insights
-- 🌀 **AgileCon 2024 (International Institute for Learning)**: Speaker on *Strategic Yet Agile: Leading with Innovation* and
-     [*featured contributor on website blog*](https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)  
-- 💼 **Crain’s Chicago Business**: Featured article on cross-sector and generational leadership
-- 🌐 **National Informal STEM Education (NISE) Network**: [*Featured article*](https://www.nisenet.org/blog/post/partner-highlight-frontiers-flight-museum-dallas-texas-celebrates-50th-anniversary-moon) for innovation in science and education engagement
-- 🌐 **Project Bites Contributor(2024-now)**: Project Bites offers project managers bite-sized educational content, with each video or audio segment lasting 20 minutes. [My shared expertise includes insights](https://projectbites.com/browse/all-bites/?_bite_speakers=5171) on *Leading Innovation in Traditional Environments: Bridging Tradition and Agility*, and *Agile and Adaptive Leadership*
 
 These experiences underscore my ability to translate structure into strategy and scalable innovation. Whether leading from the front or facilitating from behind the scenes, I help organizations move from clarity to creativity, without losing business value along the way.
+
 
 📌 **Why This Playbook?**
 
