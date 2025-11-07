@@ -47,7 +47,7 @@ My work has earned national and regional recognition. I'm a 2019 **Dallas Busine
 
 - 🌐 **National Informal STEM Education (NISE) Network**: [*Featured article*](https://www.nisenet.org/blog/post/partner-highlight-frontiers-flight-museum-dallas-texas-celebrates-50th-anniversary-moon) for innovation in science and education engagement
 
-- 💼 **Crain's Chicago Business**: Featured article on cross-sector and generational leadership
+- 💼 **Crain's Chicago Business**: [*Featured article*](https://www.chicagobusiness.com/article/20180522/OPINION/180529971/why-gen-x-leaders-are-critical-to-success) on cross-sector and generational leadership
 
 - ✅ **Certifications**:
 
