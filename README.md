@@ -1,11 +1,12 @@
 # A Practical Guide for Leading Innovation Across Sectors
 
->🎤 Featured Presentation | November 16-17, 2025
-A Playbook for Leading Technology and Innovation in Traditional Environments
-2025 Executive Women in Texas Government (EWTG) Annual Professional Development Conference
-Kalahari Resorts and Convention, Round Rock, TX
-📂 Access Presentation Materials →
-Slides, handouts, and practical frameworks from the session
+> 🎤 **Featured Presentation | November 16-17, 2025**  
+> **A Playbook for Leading Technology and Innovation in Traditional Environments**  
+> 2025 Executive Women in Texas Government (EWTG) Annual Professional Development Conference  
+> Kalahari Resorts and Convention, Round Rock, TX
+> 
+> 📂 **[Access Presentation Materials →](./presentations/2025-11-EWTG-Conference/)**  
+> Slides, handouts, and practical frameworks from the session
 
 👋 **Welcome**
 
