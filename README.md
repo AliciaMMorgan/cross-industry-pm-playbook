@@ -4,6 +4,7 @@
 > **A Playbook for Leading Technology and Innovation in Traditional Environments**  
 > 2025 Executive Women in Texas Government (EWTG) Annual Professional Development Conference  
 > Kalahari Resorts and Convention, Round Rock, TX
+> 
 > *Workshop Sponsored by: IBM*
 > 
 > 📂 **[Access Presentation Materials →](./presentations/2025-11-EWTG-Conference/)**  
