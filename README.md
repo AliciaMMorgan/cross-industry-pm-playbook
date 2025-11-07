@@ -49,7 +49,7 @@ My work has earned national and regional recognition. I’m a 2019 **Dallas Busi
 
      💼 CNM Connect – Nonprofit Management Certification
   
-- 🎤 **TEDx Plano and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
+- 🎤 **2017 TEDx Plano Speaker and Keynote Speaker**: Speaker embracing a growth mindset, innovation, and inclusion
 - 🔬 **Society of Women Engineers**: [*Women Engineers You Should Know* feature](https://alltogether.swe.org/2017/10/women-engineers-you-should-know-alicia-morgan/) and 2023 *WE23
        conference* Inspirational Insight Sessions Speaker on the topic of [*Strategic Leadership: Empowering Teams to Win*](https://youtu.be/5RlDCOTRQHA?si=0hI9VR8N5aT8Ic9C) and a 2019 *WE Local Engaged Advocate K-12 Educator Honoree* 
 - 📘 **PM World Journal**: [Featured](https://pmworldlibrary.net/authors/alicia-morgan/) for global project and program management insights
