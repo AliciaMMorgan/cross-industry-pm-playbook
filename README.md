@@ -1,6 +1,7 @@
 # A Practical Guide for Leading Innovation Across Sectors
 
 [![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b)
+[![Credly Badges](https://img.shields.io/badge/Credly-View_All_Badges-orange?logo=credly&logoColor=white)](https://www.credly.com/users/alicia-morgan.e981e03f/badges/credly)
 [![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-1.0-orange?style=for-the-badge&logo=nist)](https://www.nist.gov/itl/ai-risk-management-framework)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/AliciaMMorgan/cross-industry-pm-playbook?color=green&style=for-the-badge)](http://creativecommons.org/licenses/by/4.0/)
